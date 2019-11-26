@@ -1,6 +1,6 @@
 # Verizon Media Open Source Developer Guide
 
-![Verizon Media Logo](https://github.com/VerizonMedia/oss-guide/blob/gh-pages/assets/VZM-OSG-Web.jpg?raw=true)
+![Verizon Media Logo](https://github.com/VerizonMedia/oss-guide/blob/master/assets/VZM-OSG-Web.jpg?raw=true)
 
 The Verizon Media Open Source Developer Guide covers all relevant information to publishing, using, contributing to, promoting, and growing open source at Verizon Media. 
 
