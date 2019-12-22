@@ -25,13 +25,13 @@ As an engineer on a project, it’s your responsibility to make sure the code yo
 
 When you find code on the internet that you want to use, you should first look for the license file. We typically find one of three types of licenses:
 
-### Permissive Licenses 
+### Permissive Open Source Licenses 
 
 Permissive licenses grant permission to use the code, imposing minimal obligations, and are relatively easy to comply with. The MIT, BSD, and Apache licenses are permissive. We come across many less common, but permissive licenses. Although details in each vary, we consider zLib, ISC, JSON to be permissive and are generally acceptable for almost all uses. Creative Commons Attribution (CC-BY) and SIL Open Font are usually acceptable when applied to content and fonts. Please ask if you see something less common.
 
-We can use code licensed under permissive license. When that code is used in a [mobile app](../launching/mobile.md) or [binary product](../launching/binary.md) we distribute, follow the product launch guidelines to ensure we have listed the appropriate credits in our product before launch.
+We can use code licensed under permissive license. When that code is used in a [mobile app](../launching/mobile.md) or [binary product](../launching/binaries.md) we distribute, follow the product launch guidelines to ensure we have listed the appropriate credits in our product before launch.
 
-### Restrictive Licenses 
+### Restrictive Open Source Licenses 
 
 Restrictive licenses grant permission to use the code, but they include terms that give us pause since they could pose additional work for us to comply with. Moreover, depending on how we're using the code, we might find it better for us not to use the open source code. Free Software licenses such a GPLv2, GPLv3, LGPLv2.1, or LGPLv3 impose obligations that may require us to make code available externally. MPL and EPL also contain reciprocal terms that are sometimes problematic. **Note**: problematic does not mean we can't use it at all, it means we need to make sure we are using it correctly. 
 
@@ -39,8 +39,8 @@ We can use code licensed under restrictive licenses, but we avoid including such
 
 Speaking of exceptional situations, please read our guidance on the [AGPL License](../using/agpl.md).
 
-### Non-open source license
+### Source-available licenses
 
-There are many times of licenses that grant permission to use the code, but contain terms that are not compliant with or were not reviewed by the Open Source Initiative. Some of these licenses are fairly low risk. For example, CC-0, a declaration of public domain, Beerware, and even WTFPL on code sends the message that we're going to be OK using the code. Whereas other licenses pose interesting considerations and risks because they are designed to restrict certain usages or users. 
+There are many types of licenses that grant permission to use the code, but contain terms that are not compliant with or were not reviewed by the Open Source Initiative (OSI). Some of these licenses are fairly low risk to us, but others are not. For example, CC-0, a declaration of public domain, Beerware, and even WTFPL on code sends the message that we're going to be OK using the code. Whereas other licenses pose interesting considerations and risks because they are designed to restrict certain usages or users. Techincally speaking, these are not Open Source licenses since they do not comply with the OSI definition of Open Source.
 
-There's been a new batch of "source available" licenses that operate like open source for most people, or that eventually become open source, or that discriminate against some people or businesses. When it comes to anything like this, please ask the OSPO for guidance and advice. 
+Recently, there has been a new batch of "source available" licenses that operate like open source for most people, or that eventually become open source, or that discriminate against some people or businesses. When it comes to anything like this, please ask the OSPO for guidance and advice. 
