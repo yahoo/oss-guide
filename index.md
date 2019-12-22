@@ -21,15 +21,15 @@ See the following pages for an overview of how employees should use, contribute 
 | [Contributing](/oss-guide/docs/contributing/contributing.html) | Contributing to existing open source projects  |
 | [Publishing](/oss-guide/docs/publishing/publish.html) |  Publishing new open source projects | 
 | [Launching](/oss-guide/docs/launching/mobile.html) | Launching products that contain open source code or binaries | 
-| [Resources](../../tree/master/docs/resources) | Supplemental information and resources for the guide | 
+| [Resources](oss-guide/docs/resources/resources.html) | Supplemental information and resources for the guide | 
 
 ## Code of Conduct
 
-View the [Code of Conduct](Code-of-Conduct.md). 
+View the [Code of Conduct](https://github.com/VerizonMedia/oss-guide/blob/master/Code-of-conduct.md). 
 
 ## Contribute
 
-Please refer to [the contributing.md file](Contributing.md) for information about how to contribute to this guide. We welcome issues, questions, and pull requests.
+Please refer to [the contributing.md file](https://github.com/VerizonMedia/oss-guide/blob/master/Contributing.md) for information about how to contribute to this guide. We welcome issues, questions, and pull requests.
 
 ## Maintainers
 Ashley Wolf: awolf@verizonmedia.com <br>
