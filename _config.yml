@@ -8,4 +8,4 @@ remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright 2019, Verizon Media, Content licensed under CC-BY-4.0"
+footer_content: "Copyright 2019, Verizon Media. Content licensed under CC-BY-4.0"
