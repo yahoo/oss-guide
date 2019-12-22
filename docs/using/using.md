@@ -39,7 +39,7 @@ We can use code licensed under restrictive licenses, but we avoid including such
 
 Speaking of exceptional situations, please read our guidance on the [AGPL License](../using/agpl.md).
 
-### Source-available licenses
+### Source-available Licenses
 
 There are many types of licenses that grant permission to use the code, but contain terms that are not compliant with or were not reviewed by the Open Source Initiative (OSI). Some of these licenses are fairly low risk to us, but others are not. For example, CC-0, a declaration of public domain, Beerware, and even WTFPL on code sends the message that we're going to be OK using the code. Whereas other licenses pose interesting considerations and risks because they are designed to restrict certain usages or users. Techincally speaking, these are not Open Source licenses since they do not comply with the OSI definition of Open Source.
 
