@@ -5,7 +5,7 @@ parent: Resources to Address Common Questions
 nav_order: 1
 ---
 
-An open source program office (OSPO) helps developers at our company successfully use, contribute, and publish open source projects. Typically OSPOs perform governance, management, support, and strategy consulting functions to support a company’s open source goals. Every company is different and their OSPOs differ too. We’ve been active participants of the [//TODO Group](https://todogroup.org/) and have benefited greatly from and contributed back to the shared body of work about OSPOs. You can read more about our collected works on [The Linux Foundation's Open Source Resources](https://www.linuxfoundation.org/resources/open-source-guides) page.
+An **Open Source Program Office (OSPO)** helps developers at our company successfully use, contribute, and publish open source projects. Typically OSPOs perform governance, management, support, and strategy consulting functions to support a company’s open source goals. Every company is different and their OSPOs differ too. We’ve been active participants of the [//TODO Group](https://todogroup.org/) and have benefited greatly from and contributed back to the shared body of work about OSPOs. You can read more about our collected works on [The Linux Foundation's Open Source Resources](https://www.linuxfoundation.org/resources/open-source-guides) page.
 
 Our OSPO focuses on in the following areas:
 * **Publication Review and Support** — We review projects and stage them for open source publication on a branded and managed GitHub organization.
