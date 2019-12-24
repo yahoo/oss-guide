@@ -21,7 +21,7 @@ See the following pages for an overview of how employees should use, contribute 
 | [Contributing](/oss-guide/docs/contributing/contributing.html) | Contributing to existing open source projects  |
 | [Publishing](/oss-guide/docs/publishing/publish.html) |  Publishing new open source projects | 
 | [Launching](/oss-guide/docs/launching/mobile.html) | Launching products that contain open source code or binaries | 
-| [Resources](oss-guide/docs/resources/resources.html) | Supplemental information and resources for the guide | 
+| [Resources](/oss-guide/docs/resources/resources.html) | Supplemental information and resources for the guide | 
 
 ## Code of Conduct
 
