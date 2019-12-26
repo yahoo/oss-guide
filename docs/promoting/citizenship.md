@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Promoting Your Open Source Success
-parent: Promoting Your Open Source Projects
+title: Helping You Succeed
+parent: Promoting Your Projects
 nav_order: 1
 ---
 
