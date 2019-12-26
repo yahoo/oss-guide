@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Blogging Your Open Source Projects
-parent: Promoting Your Open Source Projects
+title: Blogging About Your Projects
+parent: Promoting Your Projects
 nav_order: 1
 ---
 
@@ -41,7 +41,7 @@ Many of our blog posts announce new open source projects. Before you start writi
 
 A good blog post tells people we did something we think they should notice. 
 
- - A good blog post is clear about the audience it's addressing. If someone in your intended audience sees the post, they know if they should read it. If someone is not in your intended audience, they know to skip it.
+ - A good blog post is clear about the audience it's addressing. If someone in your intended audience sees the post, they know if they should read it. If someone is not your intended audience, they know to skip it.
  - The post starts with the main announcement: That we published something new and want to tell you about it. Don't bury the lede in a long story explaining how you got to the solution. Start with the news. You can then develop the story in the body of the blog post.
  - You don't need to include _everything_ a reader needs to know about your project. Write an invitation to learn more. The goal of the blog post is to get people to visit the project and try it out and hopefully tell others about it, not to be the project documentation.
  - Blogs are more than words. Include an architecture or dependency diagram. Add a graph showing how things improve when people use your project.
@@ -58,7 +58,7 @@ Share your blog draft with the OSPO and we'll create an approval list that is ap
 
 ## Step 5: Attribution Considerations
 
-Much like open source code, we give proper attribution to content. Our blog posts should contain text and images we create and own or licensed to use for this purpose (e.g. permissive Creative Commons licensed images). 
+Much like open source code, we give proper attribution to content. Our blog posts contain text and images we create and own or licensed to use for this purpose (e.g. permissive Creative Commons licensed images). 
 
 Much like open source communities, we take special care to make sure that we treat people's personal images and information in accorance to their personal wishes. If your post contains a picture of an event, we need to get permission from everyone in the photo before posting it. If you are naming people in the post, we need their consent. When seeking consent, ask if they want their name linked to their LinkedIn profile or Twitter handle. We need a special release form signed if the person is a minor.
 
