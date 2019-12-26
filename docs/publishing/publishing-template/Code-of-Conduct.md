@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Code-of-conduct template
+title: Code-of-conduct Template
 nav_order: 1
 parent: Publishing Template
 ---
