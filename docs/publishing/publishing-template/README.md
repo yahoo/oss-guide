@@ -1,6 +1,6 @@
 ---
 layout: default
-title: README
+title: README Template
 parent: Publishing Template
 nav_order: 1
 ---
