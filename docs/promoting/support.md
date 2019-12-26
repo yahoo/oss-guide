@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Promoting Your Open Source Projects
+title: Promoting Your Projects
 has_children: true
 nav_order: 5
 ---
