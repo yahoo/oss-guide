@@ -2,10 +2,11 @@
 layout: default
 title: Docker README
 parent: Publishing Template
-nav_order: 6
+nav_order: 2
 ---
 
 # Docker Readme & Description Template
+> For projects that publish containers.
 
 ## Container Name
 A short description of the container. What is this for, who is this for, why should someone continue to read this README.
