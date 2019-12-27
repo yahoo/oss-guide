@@ -29,7 +29,7 @@ The Verizon Media Open Source Program Office is aware of the following Verizon-o
 *   [Millennial Media](https://github.com/millennialmedia)
 *   [Nexage](https://github.com/nexage)
 *   [Uplynk](https://github.com/Uplynk)
-*   [uplynk-full-stack](https://github.com/uplynk-full-stack)
+*   [Utypeplynk-full-stack](https://github.com/uplynk-full-stack)
 *   [Verizon Digital Media Services](https://github.com/VerizonDigital)
 
 **Active Verizon brands managed by the Verizon Media Open Source Program Office**
