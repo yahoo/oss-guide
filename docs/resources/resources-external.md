@@ -32,11 +32,11 @@ The Verizon Media Open Source Program Office is aware of the following Verizon-o
 *   [uplynk-full-stack](https://github.com/uplynk-full-stack)
 *   [Verizon Digital Media Services](https://github.com/VerizonDigital)
 
-**Active Verizon brands managed by the Verizon Media Open Source Program Offices**
+**Active Verizon brands managed by the Verizon Media Open Source Program Office**
 
 *   [Verizon Connect](https://github.com/verizonconnect)
 
-**Active Verizon brands not managed by the Verizon Media Open Source Program Offices**
+**Active Verizon brands not managed by the Verizon Media Open Source Program Office**
 
 *   [Verizon](https://github.com/verizon)
 *   [Verizon Connect](https://github.com/fleetadmin)
@@ -45,7 +45,7 @@ The Verizon Media Open Source Program Office is aware of the following Verizon-o
 *   [Verizon Labs](https://github.com/verizonlabs)
 *   [Oncue](https://github.com/oncue)
 
-**Reserved Verizon brands managed by the Verizon Media Open Source Program Offices**
+**Reserved Verizon brands managed by the Verizon Media Open Source Program Office**
 *   [Verizon Business](https://github.com/verizonbusiness)
 *   [Verizon Consumer](https://github.com/verizonconsumer)
 
