@@ -32,9 +32,7 @@ You can add optional badges such as those on http://shields.io here.
 
 ## Background
 
-_Describe why this project exists in a little more detail than the elevator pitch. Don't include details, code examples, or other in-depth material. Someone who's familiar with the project should be able to refresh their memory without hitting "page down". As your reader continues through the document, they should receive a progressively greater amount of detail._
-
-_Answer questions like: The motivation for creating this project. How this project differs from others. Who is this for. What else do readers ned to know to understand this project._
+_Describe why this project exists in more detail than the elevator pitch. Don't include code examples or other in-depth material. Someone who is familiar with the project should be able to refresh their memory without hitting "page down". As your reader continues through the document, they should receive a progressively greater amount of detail. Answer questions like: The motivation for creating this project. How this project differs from others. Who is this for. What else do readers ned to know to understand this project._
 
 **Example**
 
@@ -92,17 +90,15 @@ If you need more sections, add them here and reference them in the [table of con
 Please refer to [the contributing.md file](Contributing.md) for information about how to get involved. We welcome issues, questions, and pull requests.
 
 ## Maintainers
-Ashley Wolf: awolf@verizonmedia.com
-Gil Yehuda: gyehuda@verizonmedia.com
+- Ashley Wolf: awolf@verizonmedia.com
+- Gil Yehuda: gyehuda@verizonmedia.com
 
 ## License
 _State license full name or [SPDX](https://spdx.org/licenses/) identifier._
 
-**Example**
+**Examples (select or modify as appropriate)**
 
-This project is licensed under the terms of the [MIT](LICENSE-MIT) open source license. Please refer to [LICENSE](LICENSE) for the full terms.
-
-This project is licensed under the terms of the [Apache 2.0](LICENSE-Apache-2.0) open source license. Please refer to [LICENSE](LICENSE) for the full terms.
-
-This project is licensed under the terms of the [GNU General Public License v2.0](LICENSE-GPL-2.0-only) open source license. Please refer to [LICENSE](LICENSE) for the full terms.
+- This project is licensed under the terms of the [MIT](LICENSE-MIT) open source license. Please refer to [LICENSE](LICENSE) for the full terms.
+- This project is licensed under the terms of the [Apache 2.0](LICENSE-Apache-2.0) open source license. Please refer to [LICENSE](LICENSE) for the full terms.
+- This project is licensed under the terms of the [GNU General Public License v2.0](LICENSE-GPL-2.0-only) open source license. Please refer to [LICENSE](LICENSE) for the full terms.
 
