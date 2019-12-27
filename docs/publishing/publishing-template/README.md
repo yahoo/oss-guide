@@ -6,13 +6,18 @@ nav_order: 1
 ---
 
 # Your Open Source Project Name
-> _Describe what does this project does in one line followed by your project logo if you have one. e.g._ A project skeleton for open source projects at Verizon Media.
+_Describe what does this project does in one line followed by your project logo if you have one. e.g._
+> A project skeleton for open source projects at Verizon Media.
 
-_The Elevator Pitch of the project._ 
+Please keep this short. Copy it to the GitHub's project description. 
+
+_An optional Elevator Pitch of the project._ 
 
 **Example**
 
 Do you have some awesome code you want to release to the world on GitHub? If so, this repo provides all the files you'll need to prepare your project for public release on GitHub.com. It's a reference implementation of the [Verizon Media Open Source Skeleton Specification](Spec-READ-AND-DELETE.md), follow the requirements of this specification when adapting the content of this repo to your own project.
+
+You can add optional badges such as those on http://shields.io here.
 
 ## Table of Contents
 
@@ -27,15 +32,18 @@ Do you have some awesome code you want to release to the world on GitHub? If so,
 
 ## Background
 
-_Describe why this project exists._
+_Describe why this project exists in a little more detail than the elevator pitch. Don't include details, code examples, or other in-depth material. Someone who's familiar with the project should be able to refresh their memory without hitting "page down". As your reader continues through the document, they should receive a progressively greater amount of detail._
+
+_Answer questions like: The motivation for creating this project. How this project differs from others. Who is this for. What else do readers ned to know to understand this project._
 
 **Example**
 
-Releasing code to the public on GitHub.com can be tricky because there are a ton of details, both major and minor, that contribute to the success of an open source project. This skeleton simplifies this process by providing essential files to use when releasing open source code. Adapt these files to meet the needs of your project based on the [Verizon Media Open Source Skeleton Specification](Spec-READ-AND-DELETE.md).
+We want to make it very easy for employees who publish code to attract positive attention to their work. Some porjects are very complex, so we created an outline to help. This helps publishers gather the information in an organized way. This also helps those who browse our projects get the information they need to decide if this project is relevant to them, and if so, how to proceed. We ask employees who publish new open source projects to adapt these files to meet the needs of your project based on the [Verizon Media Open Source Skeleton Specification](Spec-READ-AND-DELETE.md).
+
 
 ## Install
 
-_Describe how to install and use this project. Assume readers may be novices but you can point to instructions rather than writing too much here._
+_Describe how to install and use this project. Readers may be novices, but our tone is informative, not condescending. You can point to instructions rather than writing too much here. Remember, if users can't install this project, they will not contribute much to it. Assume they might need information about the programming language version or operating environment information. Don't assume they operate under the same exact conditions we do internally._
 
 **Example**
 
@@ -57,7 +65,7 @@ This project doesn't have any configuration concerns. This is a placeholder in c
 
 ## Usage
 
-_Describe what you expect people to do once they install this project._ 
+_Describe what you expect people to do once they install this project. Add code blocks if relevant._ 
 
 **Example**
 
@@ -77,16 +85,19 @@ This project doesn't have an API. This is a placeholder in case you need it for 
 
 ## More optional sections
 
-If you need more sections, add them here and reference them in the [table of contents](#table-of-contents). You might add a section describing configurations, features, or known issues.
+If you need more sections, add them here and reference them in the [table of contents](#table-of-contents). You might add a section describing future features or known issues.
 
 ## Contribute
 
-Please refer to [the contributing.md file](Contributing.md) for information about how to get involved. We welcome issues, questions, and pull requests. Pull Requests are welcome.
+Please refer to [the contributing.md file](Contributing.md) for information about how to get involved. We welcome issues, questions, and pull requests.
 
 ## Maintainers
 Ashley Wolf: awolf@verizonmedia.com
+Gil Yehuda: gyehuda@verizonmedia.com
 
 ## License
+_State license full name or [SPDX](https://spdx.org/licenses/) identifier._
+
 **Example**
 
 This project is licensed under the terms of the [MIT](LICENSE-MIT) open source license. Please refer to [LICENSE](LICENSE) for the full terms.
