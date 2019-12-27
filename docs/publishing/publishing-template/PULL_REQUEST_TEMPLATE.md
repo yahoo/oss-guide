@@ -1,3 +1,10 @@
+---
+layout: default
+title: Issue Template
+nav_order: 7
+parent: Publishing Template
+---
+
 <!--- Provide a general summary of your changes in the Title above -->
 
 ## Description
@@ -34,7 +41,7 @@
 - [ ] I have added tests to cover my changes.
 - [ ] All new and existing tests passed.
 
-## License  
+## Declaration  
 I confirm that this contribution is made under an Apache 2.0 license and that I have the authority necessary to make this contribution on behalf of its copyright owner.
 
 OR
