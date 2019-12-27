@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contributing Template
-nav_order: 2
+nav_order: 3
 parent: Publishing Template
 ---
 
