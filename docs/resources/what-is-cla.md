@@ -2,7 +2,7 @@
 layout: default
 title: What is a Contributor License Agreement?
 parent: Resources to Address Common Questions
-nav_order: 2
+nav_order: 4
 ---
 
 **A Contributor License Agreement (CLA)** is a legal document that defines the terms under which a license is granted by a contributor to an open source project. It is used to protect a project from future legal issues. For example: a contributor to an open source project might claim their code was never intended as, or authorized to be used as a contribution. This could be form of trolling (injecting code then suing the project for copyright or patent infringement), or a clawback (a company asserts the contribution made by an employee was unauthorised). Although these behaviors are unexpected and rare, some have happened to open source projects. One way to mitigate these risks is to have every contributor sign a CLA. This clarifies that the contribution was authorized, and protects the project from some legal challenges.
