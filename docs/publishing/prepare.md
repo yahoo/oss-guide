@@ -44,7 +44,7 @@ More do's and don'ts:
 - We're a complicated company, so many groups get stuck on who the copyright holder is for their code. It is Yahoo Inc., Oath Inc. Verizon Media, Verizon, or something else. We'll guide you as to the appropriate choice.
 - Under normal circumstaances, the copyright holder will be the name of our company, not the name of the developer who first authored the code.
 
-This part can get surpisingly complicated, especially when it comes to code projects with blended code set from different companies. Read more details about [Copyrigth and License headers](../resources/copyright.md). Please review the information on the [Contribute to Apache Software Foundation projects](../contributing/contributing-apache.md) help page for contributions to ASF managed projects. Better yet, talk to us and we'll work with you to get to the right header text.
+This part can get surpisingly complicated, especially when it comes to code projects with blended code set from different companies. Read more details about [Copyrigth and License headers](../resources/copyright.md). Please review the information on the [Contribute to Apache Software Foundation projects](../contributing/recordkeeping.html#contribute-to-apache-software-foundation-asf-projects.html) help page for contributions to ASF managed projects. Better yet, talk to us and we'll work with you to get to the right header text.
 
 ## Scrub Your Repository
 
@@ -55,7 +55,7 @@ This part can get surpisingly complicated, especially when it comes to code proj
 
 ## Prepare Your Repository
 
-Please refer to the [repository standard](../resources/github-happy-path.md) requirements for repoitory meta-files. Then push your code to a repository or branch and grant us read access.
+Please refer to the [repository standard](../publishing/publishing-template/Spec-READ-AND-DELETE.html) requirements for repoitory meta-files. Then push your code to a repository or branch and grant us read access.
 
 ### Process
 Once you've finished these preparations, it's time to open a JIRA ticket with the OSPO and [get approval](../publishing/approval.md). You can also go back to the [Publishing Overview](../publishing/publish.md) page.
