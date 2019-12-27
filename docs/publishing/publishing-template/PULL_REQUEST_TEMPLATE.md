@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Issue Template
+title: Pull Request Template
 nav_order: 7
 parent: Publishing Template
 ---
