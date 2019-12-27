@@ -20,8 +20,8 @@ Also before publishing a new project, let's find out if we could contribute your
 ## [Step 1:](../publishing/prepare.md) Prepare Your Request
 
 1. Propose a name for your project. We'll explain why some names won't work.
-1. Add a [copyright notice](../resources/faq-copyright.md#newly-published-code) to the top of each source code file written by a Verizon Media employee. 
-1. Prepare the repository for publication based on our [repository standard](../resources/github-happy-path.md).
+1. Add a [copyright notice](../resources/copyright.md) to the top of each source code file written by a Verizon Media employee. 
+1. Prepare the repository for publication based on our [repository standard](../publishing/publishing-template/Spec-READ-AND-DELETE.html).
 1. Create an open source branch (or separate repository) on an internal GitHub Enterprise instance and grant us read access so we can review your code.
 1. Tell us where you want your project be hosted once you publish it. See the list of [Verizon Media managed external resources](../resources/resources-external.md).
 1. Collect the list of employees who will need write access to the project once it's published
@@ -49,14 +49,9 @@ The OSPO handles most open source project approval steps for you. You can find t
 
 We're here for the details:
 
-* [Prepare Your Code](../publishing/prepare.md)
-* [Get Approval](../publishing/approval.md)
-* [Release and Publicize](../publishing/release.md)
-
-### Related Content
-* [Publishing Mobile Apps](../publishing/mobile.md) and other products that include open source code
-* [Publish Binaries](../publishing/binaries.md), Docker images, and other artifacts
-* [Using GitHub](../resources/github.md) for open source projects
+1. [Prepare Your Code](../publishing/prepare.md)
+1. [Get Approval](../publishing/approval.md)
+1. [Release and Publicize](../publishing/release.md)
   
 We encourage you to check out other [resources](../resources/resources.md) for additional helpful information.
 
