@@ -25,7 +25,7 @@ This level of support is for projects with a strategic to value and robust engin
  
  We expect your project:
  
-- Has all the required repository components as per our [repository standard](../resources/github-happy-path.md). i.e. a complete Readme.md file, appropriate Contributing.md, Code-of-Conduct.md, and LICENSE.md files.
+- Has all the required repository components as per our [repository standard](../publishing/publishing-template/Spec-READ-AND-DELETE.html). i.e. a complete README.md file, appropriate Contributing.md, Code-of-Conduct.md, and LICENSE.md files.
 - Accepts contributions from external participants and provide details on how to do so.
 - Is responsive to resolving security vulnerability alerts.
 
@@ -49,7 +49,7 @@ This level of support is for projects that further Verizon Media's technology go
 
  We expect your project:
  
-- Has all the required repository components as per our [repository standard](../resources/github-happy-path.md). i.e. a complete Readme.md file, appropriate Contributing.md, Code-of-Conduct.md, and LICENSE.md files.
+- Has all the required repository components as per our [repository standard](../publishing/publishing-template/Spec-READ-AND-DELETE.html). i.e. a complete README.md file, appropriate Contributing.md, Code-of-Conduct.md, and LICENSE.md files.
 - Accepts contributions from external participants and provide details on how to do so.
 - Is reponsive to resolving security vulnerability alerts.
 
@@ -67,7 +67,7 @@ This level of support is for projects that are somewhat useful but no longer act
 
 We expect your project:
 
-- Has basic repository components such as a complete Readme.md and LICENSE.md files.
+- Has basic repository components such as a complete README.md and LICENSE.md files.
 - Is reponsive to resolving security vulnerability alerts.
 
 We will provide your project:
