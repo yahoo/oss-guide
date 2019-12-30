@@ -3,6 +3,7 @@ layout: default
 title: Contributing Static Template
 nav_order: 5
 parent: Publishing Template
+grand_parent: Publishing a New Open Source Project
 ---
 
 # Static Project
