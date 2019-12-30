@@ -3,6 +3,7 @@ layout: default
 title: Code-of-Conduct Template
 nav_order: 3
 parent: Publishing Template
+grandparent: Publishing a New Open Source Project
 ---
 
 # Verizon Media Open Source Code of Conduct
