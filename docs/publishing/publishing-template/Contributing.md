@@ -3,7 +3,7 @@ layout: default
 title: Contributing Template
 nav_order: 4
 parent: Publishing Template
-grandparent: Publishing a New Open Source Project
+grand_parent: Publishing a New Open Source Project
 ---
 
 # How to contribute
