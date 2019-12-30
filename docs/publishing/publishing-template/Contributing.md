@@ -19,7 +19,7 @@ If you encounter any bugs in the code, or want to request a new feature or enhan
 ### Contribute Code
 We welcome your pull requests for bug fixes. To implement something new, please create an issue first so we can discuss it together.
 
-#### Creating a Pull Request
+***Creating a Pull Request***
 Please follow [best practices](https://github.com/trein/dev-best-practices/wiki/Git-Commit-Best-Practices) for creating git commits.
 
 When your code is ready to be submitted, [submit a pull request](https://help.github.com/articles/creating-a-pull-request/) to begin the code review process.
@@ -30,4 +30,4 @@ We only seek to accept code that you are authorized to contribute to the project
 
 ## Code of Conduct
 
-We encourage an inclusive and professional interaction on our project. We welcome everyone to submit a pull request or open an issue to improve the documentation, add improvements, or report bugs. By participating in this project, you agree to abide by the [Verizon Media Code of Conduct](Code-of-Conduct.md). If for any reason you feel there is a conduct issue related to this project, please raise it per the Code of Conduct process and we will address it.
+We encourage inclusive and professional interactions on our project. We welcome everyone to open an issue, improve the documentation, report bug or ssubmit a pull request. By participating in this project, you agree to abide by the [Verizon Media Code of Conduct](Code-of-Conduct.md). If you feel there is a conduct issue related to this project, please raise it per the Code of Conduct process and we will address it.
