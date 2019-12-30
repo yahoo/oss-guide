@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Docker README
-parent: Publishing Template
 nav_order: 2
+parent: Publishing Template
+grand_parent: Publishing a New Open Source Project
 ---
 
 # Docker Readme & Description Template
