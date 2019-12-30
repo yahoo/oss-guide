@@ -1,8 +1,9 @@
 ---
 layout: default
 title: README Template
-parent: Publishing Template
 nav_order: 1
+parent: Publishing Template
+grand_parent: Publishing a New Open Source Project
 ---
 
 # Your Open Source Project Name
