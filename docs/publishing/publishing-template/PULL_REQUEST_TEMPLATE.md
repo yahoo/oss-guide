@@ -3,7 +3,7 @@ layout: default
 title: Pull Request Template
 nav_order: 7
 parent: Publishing Template
-grand-parent: Publishing a New Open Source Project
+grand_parent: Publishing a New Open Source Project
 ---
 
 <!--- Provide a general summary of your changes in the Title above -->
