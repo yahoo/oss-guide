@@ -5,7 +5,7 @@ url: "https://verizonmedia.github.io" # the base hostname & protocol for your si
 remote_theme: pmarsceill/just-the-docs
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/OOS_Logo_Mark_Full copy100.png"
+# logo: "/assets/OOS_Logo_Mark_Full copy100.png"
 
 # Enable or disable the site search
 search_enabled: true
