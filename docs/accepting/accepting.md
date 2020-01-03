@@ -2,7 +2,7 @@
 layout: default
 title: Accepting Contributions
 nav_order: 6
-has_children: true
+has_children: false
 ---
 
 # Accepting Contributions to Open Source Projects
