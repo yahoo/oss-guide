@@ -1,8 +1,8 @@
---
+---
 layout: default
 title: Accepting Contributions
-has_children: False
 nav_order: 6
+has_children: true
 ---
 
 # Accepting Contributions to Open Source Projects
