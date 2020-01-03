@@ -18,6 +18,7 @@ The guide for how our employees should use, contribute to, publish, promote, and
 | [Publishing](/oss-guide/docs/publishing/publish.html) |  Publishing new open source projects | 
 | [Launching](/oss-guide/docs/launching/mobile.html) | Launching products that contain open source code or binaries | 
 | [Promoting](/oss-guide/docs/promoting/support.html) | How the OSPO helps your project grow a community | 
+| [Accepting](/oss-guide/docs/accepting/accepting.html) | Accepting code from your community | 
 | [Resources](/oss-guide/docs/resources/resources.html) | Supplemental information and resources for the guide | 
 
 
