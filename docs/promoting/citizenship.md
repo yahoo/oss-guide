@@ -21,9 +21,11 @@ An awesome open source corporate citizen is combination of two behvior sets:
 
 ## Step 1: Your Profile  
 
-1. When interacting with public open source, you'll use your personal GitHub account. Please list your GitHub ID on your Employee Profile page on The Street. We can only help you if we associate your ID with your employee record. This also helps us when you evenually leave the company since we can then remove your ID from any priviledged content that you should no longer have access to.
-1. You must have two-factor authentication set up on your GitHub profile for us to help you. 
+1. When interacting with public open source, you'll use your personal GitHub account. Please list your GitHub ID on your Employee Profile page on the intranet. This also helps us when you evenually leave the company since we can then remove your ID from any priviledged content that you should no longer have access to.
+1. You must have two-factor authentication set up on your GitHub profile to be added to a managed GitHub organization. 
 1. Since we're working with your personal GitHub account and understand that different people have different feelings about what they do or don't share on the interney, let us clarify: You do not have to use your own real image as your avatar or your real name as the ID name. You can use just about any avatar and name that complies with GitHub's policies, and that does not violate any company policy either. You don't have to display an email address on your profile, but in some cases you will need to include your Verizon Media email address in your profile (and you'd remove it when you leave the company). Your GitHub account is your account. However when you are using it for work related open source projects, you are figuratively "dressing for work" and your public actions are now a reflection of you as employee too. If any of this poses a concern, please contact the OSPO and we'll work this out with you. 
+
+For more details please see [the resources page related to GitHub](../resources/your_github.html).
 
 ## Step 2: Good Standing
 
