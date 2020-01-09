@@ -29,7 +29,7 @@ Before contributing to an Apache project:
 1. We'll add you to our apache-contribtors@ internal mailing list.
 1. We'll put you in touch with an internal contact related to the project you seek to contribute to.
 
-Please keep in mind that Apache has a well-articulated process for accpeting contributions. If you are becoming an Apache contributor, seek to become a committer, or participate in Apache projects in other meaningful ways, please review the [Apache Community Guidelines](http://community.apache.org/) website to learn more about Apache-etiquette, the Apache Way, and details about Apache projects document [License and Notices](http://www.apache.org/legal/src-headers.html) information in projects.
+Please keep in mind that Apache has a well-articulated process for accepting contributions. If you are becoming an Apache contributor, seek to become a committer, or participate in Apache projects in other meaningful ways, please review the [Apache Community Guidelines](http://community.apache.org/) website to learn more about Apache-etiquette, the Apache Way, and details about Apache projects document [License and Notices](http://www.apache.org/legal/src-headers.html) information in projects.
 
 ## Contribute to OpenStack
 
