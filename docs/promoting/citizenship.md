@@ -36,7 +36,7 @@ Working as a corporate engineer who is also an open source developer means that 
 
 ## Step 3: Promoting You
 
-One of the benefits of working on open source is that you get an opportunity to get recognition from your peers in the industry. We think it's great that with hard work, you can become at hero at this company. With open source, you can become a hero at every company. We'll help promote you, but we have to work together and with our PR department, to make this work.
+One of the benefits of working on open source is that you get an opportunity to get recognition from your peers in the industry. We think it's great that with hard work, you can become a hero at this company. With open source, you can become a hero at every company. We'll help promote you, but we have to work together and with our PR department, to make this work.
 
  - We will help you [publish blog articles](../promoting/blog.md) or podcasts about Verizon Media open source projects.
  - If your project warrants, we will help you with meetup and conference talks, as well as other industry outreach.
