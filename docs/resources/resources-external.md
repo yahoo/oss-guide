@@ -5,7 +5,7 @@ parent: Resources to Address Common Questions
 nav_order: 5
 ---
 
-The Verizon Media Open Source Program Office is aware of the following Verizon-owned organziations on GitHub.com
+The Verizon Media Open Source Program Office is aware of the following Verizon-owned organizations on GitHub.com
 
 **Active Verizon Media brands managed by the Open Source Program Office**
 
