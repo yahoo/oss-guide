@@ -29,7 +29,7 @@ A reminder: Do not post company code in your personal GitHub account without get
 
 ## GitHub Organizations
 
-Verizon Media open source projects are released on GitHub.com are published in a [Verizon Media organization managed by the OSPO](../resources/resources-external.md). Do not publish any content to an organization you created without first consulting the OSPO. If you need to claim an organization name for a project we're about to publish, feel free to do so, but consult with the OSPO before publishing anything to it. 
+Verizon Media open source projects are released on GitHub.com and are published in a [Verizon Media organization managed by the OSPO](../resources/resources-external.md). Do not publish any content to an organization you created without first consulting the OSPO. If you need to claim an organization name for a project we're about to publish, feel free to do so, but consult with the OSPO before publishing anything to it. 
 
 It may be appropriate to publish code to your personal account. e.g. your code (not related to work).
 1. Purely personal projects that have nothing to do with your job. (We'll help you determine if this is the case.)
