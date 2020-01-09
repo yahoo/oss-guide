@@ -19,7 +19,7 @@ Verizon Media hosts a tech blog called the [Yahoo Developer Network blog](https:
 
 For many people, podcasting is a more engaging way to share and consume content than blog posts. Verizon Media hosts a podcast called the [Dash Open](https://developer.yahoo.com/podcasts/). We share our episodes on [Apple Podcasts](https://itunes.apple.com/us/podcast/dash-open-podcast/id1446078348), [Soundcloud](https://soundcloud.com/ydn) and [Spotify](https://open.spotify.com/show/1r8v5scdWfGaK2n4R5f0Fi). 
 
-Our podcasts follow a simple conversational style where the host prompts the guest(s) to describe the project they are working on or to share some message for the listeners. We edit the conversation to get to about 5-10 minutes of content. We transcripte the podcast to text for three reasons:
+Our podcasts follow a simple conversational style where the host prompts the guest(s) to describe the project they are working on or to share some message for the listeners. We edit the conversation to get to about 5-10 minutes of content. We transcribe the podcast to text for three reasons:
 
 1. Accessibility. We know podcasts are great, but not everybody hears. We want all people to have access to our content. 
 1. Convenience. Even those of us who hear sometimes prefer to read a podcast; like when we're in the office and don't have our earbuds handy.
@@ -60,5 +60,5 @@ Share your blog draft with the OSPO and we'll create an approval list that is ap
 
 Much like open source code, we give proper attribution to content. Our blog posts contain text and images we create and own or licensed to use for this purpose (e.g. permissive Creative Commons licensed images). 
 
-Much like open source communities, we take special care to make sure that we treat people's personal images and information in accorance to their personal wishes. If your post contains a picture of an event, we need to get permission from everyone in the photo before posting it. If you are naming people in the post, we need their consent. When seeking consent, ask if they want their name linked to their LinkedIn profile or Twitter handle. We need a special release form signed if the person is a minor.
+Much like open source communities, we take special care to make sure that we treat people's personal images and information in accordance with their personal wishes. If your post contains a picture of an event, we need to get permission from everyone in the photo before posting it. If you are naming people in the post, we need their consent. When seeking consent, ask if they want their name linked to their LinkedIn profile or Twitter handle. We need a special release form signed if the person is a minor.
 
