@@ -53,6 +53,6 @@ We encourage you to contribute to open source projects. You don't need our revie
 
 ### Additional Considerations
 
-* When we have multiple groups at the company who contribute to the same project, we encourage you to reach out to your collegues and coordinate your efforts internally. 
-* If you encounter any conduct issues with the project you are working on (e.g. if anyone in the community engages in misbehavior toward you or anyone else), alert the OSPO immiediatly. Please don't engage in an online spat as these can escalate in non-productive ways. Call us in and we'll find ways to work things out.
-* The above guidelines covers your contribution of "company code" to open source projects. Sometimes you might be unclear if the code you are working on is "company code" or perhaps your personally owned code. Please contact the OSPO and we'll help clarify this with you. 
+* When we have multiple groups at the company who contribute to the same project, we encourage you to reach out to your colleagues and coordinate your efforts internally. 
+* If you encounter any conduct issues with the project you are working on (e.g. if anyone in the community engages in misbehavior toward you or anyone else), alert the OSPO immediately. Please don't engage in an online spat as these can escalate in non-productive ways. Call us in and we'll find ways to work things out.
+* The above guidelines cover your contribution of "company code" to open source projects. Sometimes you might be unclear if the code you are working on is "company code" or perhaps your personally owned code. Please contact the OSPO and we'll help clarify this with you. 
