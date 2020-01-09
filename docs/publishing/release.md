@@ -11,7 +11,7 @@ The Verizon Media Open Source Program Office (OSPO) is here to help engineers at
 
 ## Publication Process
 
-1. The OSPO reviews projects on Monday mornings at 9:00 AM Pacific time. If the OSPO receives your project after 9:00 AM on Monday, we will review it the following Monday.
+1. The OSPO reviews projects during our open office hours (Monday mornings at 9:00 AM Pacific time). If the OSPO receives your project after 9:00 AM on Monday, we will review it the following Monday.
 1. If we approve your project for publication, we schedule your launch (typically on Tuesday at 11:00 AM Pacific time). 
 1. If you'd like to schedule for a different day or time, indicate your preferred day and time in the ticket.
 1. At the designated time, we'll change the repo settings to public.
@@ -19,9 +19,9 @@ The Verizon Media Open Source Program Office (OSPO) is here to help engineers at
 
 ## Promotion Process
 
-We will publish your blog post announcing the new project at the time specified by our communications plan. Some projects seek to soft-launch and be public for a few weeks before we blog about it. Other projects schedule their blog post and publication to be syncronized with a confernce presentation or other relevant launch event. As long as we have a reviewed and approved communications plan in place, we can accomodate your needs.
+We will publish your blog post announcing the new project at the time specified by our communications plan. Some projects seek to soft-launch and be public for a few weeks before we blog about it. Other projects schedule their blog post and publication to be synchronized with a conference presentation or other relevant launch event. As long as we have a reviewed and approved communications plan in place, we can accomodate your needs.
 
-You may opt to set up a project website, documentaion pages, or community group (e.g. using GoogleGroups, Gitter, Slack, etc.). We can provide you with our [Awesome Project website template](https://yo/open-source-website) on our intrate, which you can use to create your community site, but we expect that you and the community your grow will maintain the site. Note: before launching a community website, designing a project logo, or registering a project domain name, please work with the OSPO on a communications plan so that we can get the proper approvals and registrations in place first.
+You may opt to set up a project website, documentation pages, or community group (e.g. using GoogleGroups, Gitter, Slack, etc.). We can provide you with our [Awesome Project website template](https://yo/open-source-website) on our intrate, which you can use to create your community site, but we expect that you and the community you develop will maintain the site. Note: before launching a community website, designing a project logo, or registering a project domain name, please work with the OSPO on a communications plan so that we can get the proper approval and registrations in place first.
 
 ## First Quarter
 
@@ -41,12 +41,12 @@ After you have published your project, it's time to start accepting contribution
 - If you use our PULL_REQUEST_TEMPLATE, contributors do not have to sign a CLA with us. The template contains what is, in effect, a DCO. 
 - To encourage positive community interactions, we recommend you follow the [Issue Triage](../resources/issue-triage.md) guidelines.
 
-When projects first launch we expect all the conrtributors and committers on the project are Verizon Media employees. We believe one measure of success is how many contributors are not employees. We encourage you to see and support external contributors to our projects. Contact the OSPO to grant committer access. We will include Verizon Media employees in the GitHub org and will specifiy non-employees as external collaborators. 
+When projects first launch we expect all the contributors and committers on the project are Verizon Media employees. We believe one measure of success is how many contributors are not employees. We encourage you to see and support external contributors to our projects. Contact the OSPO to grant committer access. We will include Verizon Media employees in the GitHub org and will specify non-employees as external collaborators. 
 
 ## Project Hospice 
 
-All projects eventually come to their end and we want to make that process as gentle and diginfied for the community involved as we can. By practice, we typically keep open source projects on GitHub and mark them as Archived. This allows communinty members to view and fork the code while we've made it clear that we are not investing effort in the project anymore. We will move a project to archive state if we no longer have an employee who maintains the project or if the maintainers tell us they have abandoned the project. Projects with security alerts that remain open for a month will be archived.
+All projects eventually come to their end and we want to make that process as gentle and dignified for the community involved as we can. By practice, we typically keep open source projects on GitHub and mark them as Archived. This allows community members to view and fork the code while we've made it clear that we are not investing effort in the project anymore. We will move a project to archive state if we no longer have an employee who maintains the project or if the maintainers tell us they have abandoned the project. Projects with security alerts that remain open for a month will be archived.
 
 ### Process
 
-This concludes the three step [Prepare](../publishing/prepare.md), [Approve](../publishing/approve.md), and Release process. You can return to the [Publishing Overview](../publishing/publish.md), or review additional [resources](../resources/resources.md) about the Open Source Program Office processes.
+This concludes the three step [prepare](../publishing/prepare.md), [approve](../publishing/approve.md), and release process. You can return to the [Publishing Overview](../publishing/publish.md), or review additional [resources](../resources/resources.md) in this guide.
