@@ -22,10 +22,10 @@ We suggest thinking about your project name early in the process. Before you sel
 
 ## Select the Appropriate License
 
-The OSPO is here to help you license your project. For an overview of open source licenses, check out [What is an open source license](/resources/what-is-license.md)? We prefer publishing code under permissive open source licenses such as Apache License 2.0, BSD 3-Clause, or MIT. We publish under other licenses when the specifics of the project warrent their use. Specifically:
+The OSPO is here to help you license your project. For an overview of open source licenses, check out [What is an open source license](/resources/what-is-license.md)? We prefer publishing code under permissive open source licenses such as Apache License 2.0, BSD 3-Clause, or MIT. We publish under other licenses when the specifics of the project warrant their use. Specifically:
 
 - We match the license to the project's needs. We usually consider the Apache 2.0 License as our go to option. When publishing code to certain communities, we may opt to use a license that is more consistent with the rest of the community. e.g. Node.JS projects tend to be licensed under the terms of the MIT license. 
-- We may publish sample code under the zLib or MIT-0 licenses because they doesn't require users to carry attribution forward. This makes sense for sample code that users might include in their apps.
+- We may publish sample code under the zLib or MIT-0 licenses because they don't require users to carry attribution forward. This makes sense for sample code that users might include in their apps.
 - Some projects contain dependencies that require us to use a GPL license in the code. That's fine too. 
 
 ## Add Copyright License Headers to Your Code
@@ -33,29 +33,29 @@ The OSPO is here to help you license your project. For an overview of open sourc
 All code files must have a properly formatted Copyright and License header. 
 
 - The Copyright header consists of three parts: the word _Copyright_, the year of publication, and the copyright holder who published this work. 
-- The License header consistes of the phrase _Licensed under the terms of the {NAME} License. See LICENSE.md file in the project root for terms._
+- The License header consists of the phrase _Licensed under the terms of the {NAME} License. See LICENSE.md file in the project root for terms._
 
 More do's and don'ts:
 - Use the language-appropriate delimiter for your comment block (e.g. // or /* text */ etc.)
-- Don't add symbol next to the word _Copyright_ (e.g. © or (c)). It's redundant.
+- Don't add a symbol next to the word _Copyright_ (e.g. © or (c)). It's redundant.
 - Use the year of publication, not a date range.
 - Don't update the year of publication. Some people think the year is like a freshness date and want it to be current. Really, the year is the date of publication and sets a timer for when the copyright expires. Just enter the year of publication. If you make a significant update to a project, update the year to the current year.
 - Don't add "All rights reserved." at the end of the line. The license will un-reserve some of those rights. Use "All rights reserved." for closed source code.
 - We're a complicated company, so many groups get stuck on who the copyright holder is for their code. It is Yahoo Inc., Oath Inc. Verizon Media, Verizon, or something else. We'll guide you as to the appropriate choice.
-- Under normal circumstaances, the copyright holder will be the name of our company, not the name of the developer who first authored the code.
+- Under normal circumstances, the copyright holder will be the name of our company, not the name of the developer who first authored the code.
 
-This part can get surpisingly complicated, especially when it comes to code projects with blended code set from different companies. Read more details about [Copyrigth and License headers](../resources/copyright.md). Please review the information on the [Contribute to Apache Software Foundation projects](../contributing/recordkeeping.html#contribute-to-apache-software-foundation-asf-projects.html) help page for contributions to ASF managed projects. Better yet, talk to us and we'll work with you to get to the right header text.
+This part can get surprisingly complicated, especially when it comes to code projects with blended code set from different companies. Read more details about [Copyright and License headers](../resources/copyright.md). Please review the information on the [Contribute to Apache Software Foundation projects](../contributing/recordkeeping.html#contribute-to-apache-software-foundation-asf-projects.html) help page for contributions to ASF managed projects. Better yet, talk to us and we'll work with you to get to the right header text.
 
 ## Scrub Your Repository
 
 1. Remove all internal dependencies or references in your code and documentation. This includes any references to server names, binaries, databases, or internal communication addresses. Remove references to internal directory conventions. Also remove comments or documentation references to JIRA links, internal code names, and anything else that wouldn't make sense to external developers.
 1. Remove embarrassing content. e.g. curse words, references to poor coding practices ("stolen from"), jokes, and anything that would be embarrassing if it were made public.
 1. Perform any paranoid-required code review for vulnerabilities in static code or dependencies
-1. Remove all embedded credentials, passwords, or other secrets that may be in the code or a configuration file. (Note: we expect secrets to be managed ourside of source code, but we ask you to check nonetheless. We'll check too.) 
+1. Remove all embedded credentials, passwords, or other secrets that may be in the code or a configuration file. (Note: we expect secrets to be managed outside of source code, but we ask you to check nonetheless. We'll check too.) 
 
 ## Prepare Your Repository
 
-Please refer to the [repository standard](../publishing/publishing-template/Spec-READ-AND-DELETE.html) requirements for repoitory meta-files. Then push your code to a repository or branch and grant us read access.
+Please refer to the [repository standard](../publishing/publishing-template/Spec-READ-AND-DELETE.html) requirements for repository meta-files. Then push your code to a repository or branch and grant us read access.
 
 ### Process
 Once you've finished these preparations, it's time to open a JIRA ticket with the OSPO and [get approval](../publishing/approval.md). You can also go back to the [Publishing Overview](../publishing/publish.md) page.
