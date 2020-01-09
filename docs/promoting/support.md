@@ -26,7 +26,7 @@ This level of support is for projects with a strategic to value and robust engin
  We expect your project:
  
 - Has all the required repository components as per our [repository standard](../publishing/publishing-template/Spec-READ-AND-DELETE.html). i.e. a complete README.md file, appropriate Contributing.md, Code-of-Conduct.md, and LICENSE.md files.
-- Accepts contributions from external participants and provide details on how to do so.
+- Accepts contributions from external participants and provides details on how to do so.
 - Is responsive to resolving security vulnerability alerts.
 
 We will provide your project:
@@ -50,8 +50,8 @@ This level of support is for projects that further Verizon Media's technology go
  We expect your project:
  
 - Has all the required repository components as per our [repository standard](../publishing/publishing-template/Spec-READ-AND-DELETE.html). i.e. a complete README.md file, appropriate Contributing.md, Code-of-Conduct.md, and LICENSE.md files.
-- Accepts contributions from external participants and provide details on how to do so.
-- Is reponsive to resolving security vulnerability alerts.
+- Accepts contributions from external participants and provides details on how to do so.
+- Is responsive to resolving security vulnerability alerts.
 
 We will provide your project:
  
@@ -68,7 +68,7 @@ This level of support is for projects that are somewhat useful but no longer act
 We expect your project:
 
 - Has basic repository components such as a complete README.md and LICENSE.md files.
-- Is reponsive to resolving security vulnerability alerts.
+- Is responsive to resolving security vulnerability alerts.
 
 We will provide your project:
 
@@ -81,4 +81,4 @@ We archive a project.
 - When the project maintainers are not responsive to resolve a security alert.
 - When the project is inactive (e.g. no meaningful changes in 2 years).
 
-We will mark these projects as Archived. This allows people to read and fork the code, while it also sends the message that we are not actively supporting the code. Note: if you are the only project maintainer of an active open source project that is employed at Verizon Media, but you plan to leave the company, contact the OSPO. You can fork the project and maintain it in a different location, or we can identify an employee to serve a our contact for project updates. 
+We will mark these projects as Archived. This allows people to read and fork the code, while it also sends the message that we are not actively supporting the code. Note: if you are the only project maintainer of an active open source project that is employed at Verizon Media, but you plan to leave the company, contact the OSPO. You can fork the project and maintain it in a different location, or we can identify an employee to serve as our contact for project updates. 
