@@ -64,3 +64,4 @@ The Verizon Media Open Source Program Office is aware of the following Verizon-o
 *   [Vidible](https://github.com/vidible)
 *   [Volicon](https://github.com/volicon)
 *   [Yahoo Archive](https://github.com/yahooarchive)
+*   [YUI](https://github.com/yui)
