@@ -29,7 +29,7 @@ The Verizon Media Open Source Program Office is aware of the following Verizon-o
 *   [Millennial Media](https://github.com/millennialmedia)
 *   [Nexage](https://github.com/nexage)
 *   [Uplynk](https://github.com/Uplynk)
-*   [Utypeplynk-full-stack](https://github.com/uplynk-full-stack)
+*   [Uplynk-full-stack](https://github.com/uplynk-full-stack)
 *   [Verizon Digital Media Services](https://github.com/VerizonDigital)
 
 **Active Verizon brands managed by the Verizon Media Open Source Program Office**
@@ -40,6 +40,7 @@ The Verizon Media Open Source Program Office is aware of the following Verizon-o
 
 *   [Verizon](https://github.com/verizon)
 *   [Verizon Connect](https://github.com/fleetadmin)
+*   [Verizon Connect](https://github.com/Telogis)
 *   [Verizon Enterprise](https://github.com/protectwise)
 *   [Verizon Geeks](https://github.com/Verizon-Geeks)
 *   [Verizon Labs](https://github.com/verizonlabs)
@@ -52,7 +53,7 @@ The Verizon Media Open Source Program Office is aware of the following Verizon-o
 **Inactive, Archived, and Deprecated brands**
 
 *   [Adaptv](https://github.com/adaptv)
-*   [Aolarchive](https://github.com/aolarchive)
+*   [Aol Archive](https://github.com/aolarchive)
 *   [Aol-public](http://aol-public)
 *   [AolTech](https://github.com/aoltech)
 *   [Convertro](https://github.com/convertro)
@@ -61,4 +62,5 @@ The Verizon Media Open Source Program Office is aware of the following Verizon-o
 *   [Oath](https://github.com/oath/)
 *   [OneByAol](https://github.com/OneByAol/)
 *   [Vidible](https://github.com/vidible)
+*   [Volicon](https://github.com/volicon)
 *   [Yahoo Archive](https://github.com/yahooarchive)
