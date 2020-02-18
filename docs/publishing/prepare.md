@@ -32,14 +32,13 @@ The OSPO is here to help you license your project. For an overview of open sourc
 
 All code files must have a properly formatted Copyright and License header. 
 
-- The Copyright header consists of three parts: the word _Copyright_, the year of publication, and the copyright holder who published this work. 
+- The Copyright header consists of two parts: the word _Copyright_ and the copyright holder who published this work. 
 - The License header consists of the phrase _Licensed under the terms of the {NAME} License. See LICENSE.md file in the project root for terms._
 
 More do's and don'ts:
 - Use the language-appropriate delimiter for your comment block (e.g. // or /* text */ etc.)
 - Don't add a symbol next to the word _Copyright_ (e.g. © or (c)). It's redundant.
-- Use the year of publication, not a date range.
-- Don't update the year of publication. Some people think the year is like a freshness date and want it to be current. Really, the year is the date of publication and sets a timer for when the copyright expires. Just enter the year of publication. If you make a significant update to a project, update the year to the current year.
+- Don't update the year of publication. Some people think the year is like a freshness date and want it to be current. Really, the year is the date of publication and sets a timer for when the copyright expires. 
 - Don't add "All rights reserved." at the end of the line. The license will un-reserve some of those rights. Use "All rights reserved." for closed source code.
 - We're a complicated company, so many groups get stuck on who the copyright holder is for their code. It is Yahoo Inc., Oath Inc. Verizon Media, Verizon, or something else. We'll guide you as to the appropriate choice.
 - Under normal circumstances, the copyright holder will be the name of our company, not the name of the developer who first authored the code.
