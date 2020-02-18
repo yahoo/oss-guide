@@ -54,14 +54,11 @@ Even though we are now called `Verizon Media`, you do not need to change the cop
 When modifying an existing open source project, don't alter the copyright header. But you can update the year if your modifications are significant. Don't add a date range (e.g. 2012-2017). The publication date starts a virtual clock for when the copyright expires (in many decades from now). So updating the year has an effect that most of us will not live to see. The final date is the only one that counts. So you don't have to change the date, but you can. However, if you change the date to the current year, you should change the copyright name to our current company name (`Verizon Media` which is also `Oath Inc.`).
 
 #### New code that we are publishing
-Please note: `Oath Inc.` is still the name for Verizon Media and the proper copyright holder for code published in 2019. This will likely change to Verizon or Verizon Media. But it's okay if we're not 100% exact since [US copyright law](https://www.law.cornell.edu/uscode/text/17/401) allows the copyright holder to use 
-> `the name of the owner of copyright in the work, or an abbreviation by which the name can be recognized, or a generally known alternative designation of the owner.` 
-
 _Verizon Media_ is our `generally known alternative designation`.
 
 When you add a new file to an existing open source project or publish a new project, you'll add a copyright header to it. We now all work for Verizon Media (or one of its subsidiaries), so new code should be published declaring:
 
-> Copyright 2019, Verizon Media,
+> Copyright Verizon Media
 > Licensed under the terms of the <`SPDX name for the project license`> license . See LICENSE file in project root for terms.
 
 Add the text block above to the top of each source code file that was written by employees and is not computer generated.
@@ -70,7 +67,7 @@ Add the text block above to the top of each source code file that was written by
 
 We do not require internal code to include a copyright statement. But it's a very good idea to have one since internal code sometimes becomes published external code (on purpose or by accident). Having an accurate copyright statement helps. It's good practice to add a header when creating new files. Also, some IDEs automatically put one in, so please configure it to put the right one in. 
 
-The header should contain a copyright statement (`Copyright 2019, Verizon Media`) followed by the statement that indicates this is proprietary code (`All rights reserved.`). In the event we open source that code at a future date, we will then replace the `All rights reserved.` text with a license indicator that the code is licensed under an open source license (as shown above).
+The header should contain a copyright statement (`Copyright Verizon Media`) followed by the statement that indicates this is proprietary code (`All rights reserved.`). In the event we open source that code at a future date, we will then replace the `All rights reserved.` text with a license indicator that the code is licensed under an open source license (as shown above).
 
 #### Additional Information
 Internal code should not list the engineer's name as the copyright holder. The engineer is the _author_ of the code, but code written for work is assigned to the company. A person's name is the appropriate copyright holder on code written by people who are self-employed or who publish code not assigned to the company (it was determined to be outside the parameters of the assignment) or who have processed a copyright assignment with their company where the company re-assigns the code back to the employee. External code should only list your name as the copyright holder if you processed a copyright assignment. Otherwise the code copyright should declare `Verizon Media` as the copyright holder. It does not matter if code is published on a personal repo, as the copyright is an attribute of the code, not the repo.
