@@ -38,7 +38,7 @@ All code files must have a properly formatted Copyright and License header.
 More do's and don'ts:
 - Use the language-appropriate delimiter for your comment block (e.g. // or /* text */ etc.)
 - Don't add a symbol next to the word _Copyright_ (e.g. © or (c)). It's redundant.
-- Don't update the year of publication. Some people think the year is like a freshness date and want it to be current. Really, the year is the date of publication and sets a timer for when the copyright expires. 
+- Don't add or update the year of publication. We don't need to include the year of publication. Technically it is intended to start the timer for copyright expiration. Often people see it as a freshness date. It's not needed.
 - Don't add "All rights reserved." at the end of the line. The license will un-reserve some of those rights. Use "All rights reserved." for closed source code.
 - We're a complicated company, so many groups get stuck on who the copyright holder is for their code. It is Yahoo Inc., Oath Inc. Verizon Media, Verizon, or something else. We'll guide you as to the appropriate choice.
 - Under normal circumstances, the copyright holder will be the name of our company, not the name of the developer who first authored the code.
