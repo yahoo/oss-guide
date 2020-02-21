@@ -51,12 +51,10 @@ or
 Even though we are now called `Verizon Media`, you do not need to change the copyright on code that was already published. The code previously published was marked correctly as published by the entity that existed at the time. It's factually correct to say that in 2014, a project was published that had Aol's or Yahoo's copyright on it. We don't have to change anything about that -- in fact it would be incorrect to change it. Copyright statements are not a freshness date, they are a timestamp.
 
 #### Existing code that you are modifying
-When modifying an existing open source project, don't alter the copyright header. But you can update the year if your modifications are significant. Don't add a date range (e.g. 2012-2017). The publication date starts a virtual clock for when the copyright expires (in many decades from now). So updating the year has an effect that most of us will not live to see. The final date is the only one that counts. So you don't have to change the date, but you can. However, if you change the date to the current year, you should change the copyright name to our current company name (`Verizon Media` which is also `Oath Inc.`).
+When modifying an existing open source project, you don't need to alter the copyright header. But you can remove the year since we no longer display years on the copyright line. Don't add a date range (e.g. 2012-2017). You can update the copyright entity name from "Oath Inc." to "Verizon Media" if you prefer, but you don't have to.
 
 #### New code that we are publishing
-_Verizon Media_ is our `generally known alternative designation`.
-
-When you add a new file to an existing open source project or publish a new project, you'll add a copyright header to it. We now all work for Verizon Media (or one of its subsidiaries), so new code should be published declaring:
+_Verizon Media_ is our generally known designation and is the name we use on the copyright header. When you add a new file to an existing open source project or publish a new project, you'll add a copyright header to it. We now all work for Verizon Media (or one of its subsidiaries), so new code should be published declaring:
 
 > Copyright Verizon Media
 > Licensed under the terms of the <`SPDX name for the project license`> license . See LICENSE file in project root for terms.
