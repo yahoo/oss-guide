@@ -5,7 +5,7 @@ parent: Resources to Address Common Questions
 nav_order: 2
 ---
 
-> You are here for one of two reasons. You either want to understand more about the concept of _copyrights and how it relates to open source_ or you want to know what to put in the header of your code before you publish it. If you are here for the latter, skip [to the practical content](../copyright.html#what-should-you-put-in-your-code) below.
+> You are here for one of two reasons. You either want to understand more about the concept of _copyrights and how it relates to open source_ or you want to know what to put in the header of your code before you publish it. If you are here for the latter, skip [to the practical content](../resources/copyright.html#what-should-you-put-in-your-code) below.
 
 # An Overview of Concepts
 
@@ -54,7 +54,7 @@ _Verizon Media_ is the name we now use on the copyright header of new projects w
 
 ```
 Copyright Verizon Media.
-Licensed under the terms of the <`SPDX license name`> license. See LICENSE file in project root for terms.
+Licensed under the terms of the <SPDX license name> license. See LICENSE file in project root for terms.
 ```
 
 ### New code that we are not publishing
