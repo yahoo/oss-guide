@@ -7,7 +7,7 @@ nav_order: 2
 
 > You are here for one of two reasons. You either want to understand more about the concept of _copyrights and how it relates to open source_ or you want to know what to put in the header of your code before you publish it. If you are here for the latter, skip [to the practical content](../copyright.html#what-should-you-put-in-your-code) below.
 
-# Copyright and Open Source: An Overview of Concepts
+# An Overview of Concepts
 
 **Copyright** is a collection of rights protected by the government that applies to original works of authorship fixed in any tangible medium of expression. These rights ensure the copyright owner can decide who can copy the work. Yet this gets much more complicated.
 
@@ -29,14 +29,12 @@ When developers want to share their code and get others to use it, modify it, an
 
 Open source means different things to different people. From a legal perspective, open source refers to work that is shared under a license that complies with the [open source definition](https://opensource.org/osd) as managed by the [Open Source Initiative](https://opensource.org/). The open source definition specifies what makes an open source license open. Similarly, the [Free Software Foundation](https://www.fsf.org/) manages the [free software definition](https://www.gnu.org/philosophy/free-sw.html) which specifies the "four freedoms" that are sought by the Free Software movement.  
 
-There is considerable overlap between free software and open source, hence the merged acronym FOSS (or F/LOSS: adding _libre_ to remind people that the term _free_ in this context refers to freedoms, not to the absence of cost). There are sufficient differences between the two definitions that they will remain uncombined. 
+Note: There is overlap between _free software_ and _open source_, hence the acronym FOSS (or F/LOSS: adding _libre_ as a reminder that _free_ in this context refers to freedoms, not to the absence of cost). There are differences between the two definitions that they remain distinct. 
 
-# Copyright and Open Source: The Pragmatic How-To
+# The Pragmatics
 
 ## What Should You Put in Your Code
-You already read the section [Prepare your Publication](publishing/prepare.html#add-copyright-license-headers-to-your-code) page in this guide, but you have more questions. Note: this guidance is for code we write. We never remove someone else's copyright statement. We only add our copyright statements to code we write.
-
-Let's cover four cases: 
+First read the section [Prepare your Publication](publishing/prepare.html#add-copyright-license-headers-to-your-code) page in this guide. Note: this guidance is for code we write at work. We never remove someone else's copyright statement. We only add our copyright statements to code we write. Let's cover four cases: 
 
 1. Existing code that you are not modifying
 1. Existing code that you are modifying
@@ -54,10 +52,8 @@ When modifying one of our existing open source projects, you don't need to alter
 ### New code that we are publishing
 _Verizon Media_ is the name we now use on the copyright header of new projects we publish. When you add a new file to an existing open source project or publish a new project, you'll add a copyright header to it. New code should have the following text block above to the top of each source code file that was written by employees (and not computer generated).
 
-> Copyright Verizon Media.
-
-> Licensed under the terms of the <`SPDX license name`> license . See LICENSE file in project root for terms.
-
+> Copyright Verizon Media. \
+Licensed under the terms of the <`SPDX license name`> license. See LICENSE file in project root for terms.
 
 ### New code that we are not publishing
 We do not require internal code to include a copyright statement. But it's a good idea to have one since internal code can become published external code (on purpose or by accident). Having an accurate copyright statement helps. It's good practice to add a header when creating new files. Also, some IDEs automatically put one in, so please configure it to use the right one. 
@@ -65,6 +61,6 @@ We do not require internal code to include a copyright statement. But it's a goo
 The header should contain a copyright statement (`Copyright Verizon Media`) followed by the statement that indicates this is proprietary code (`All rights reserved.`). In the event we open source that code at a future date, we will then replace the `All rights reserved.` text with a license indicator that the code is licensed under an open source license (as shown above).
 
 ## Using your name on the copyright header
-Company code should not list the engineer's name as the copyright holder. The engineer is the _author_ of the code, but code written for work is assigned to the company. A person's name is the appropriate copyright holder on code written by people who are self-employed or who publish code not assigned to the company (i.e. it was determined to be outside the parameters of the assignment) or who have processed a copyright assignment with their company where the company re-assigns the code back to the employee. Your code should only list your name as the copyright holder if you processed a copyright assignment with the OSPO and legal. Otherwise the code copyright should declare `Verizon Media` as the copyright holder. It does not matter if code is published on a personal repo, as the copyright is an attribute of the code, not the repo.
+Company code should not list the engineer's name in the copyright notice. The engineer is the _author_ of the code, but code written for work is assigned to the company. Your code should only list your name as the copyright holder if you processed a copyright assignment with the OSPO and legal or if we have established an exceptional situation where this makes sense to do. Otherwise the code copyright should declare `Verizon Media` as the copyright holder. It does not matter if code is published on a personal repo, as the copyright is an attribute of the code, not the repo.
 
 
