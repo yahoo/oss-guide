@@ -5,19 +5,21 @@ parent: Resources to Address Common Questions
 nav_order: 2
 ---
 
-> You are here for one of two reasons. You either want to understand more about the concept of _copyrights and how it relates to open source_ or you want to know what to put in the header of your code before you publish it. If you are here for the latter, skip [to the practical content](../copyright.md#what-should-you-put-in-your-code) below.
+> You are here for one of two reasons. You either want to understand more about the concept of _copyrights and how it relates to open source_ or you want to know what to put in the header of your code before you publish it. If you are here for the latter, skip [to the practical content](../copyright.html#what-should-you-put-in-your-code) below.
+
+# Copyright and Open Source: An Overview of Concepts
 
 **Copyright** is a collection of rights protected by the government that applies to original works of authorship fixed in any tangible medium of expression. These rights ensure the copyright owner can decide who can copy the work. Yet this gets much more complicated.
 
-Consider a world without copyright protection. You author a work (i.e. write a novel, compose a song, create an app), and someone wants to use it without your permission. Perhaps the sovereign emperor of the land likes your novel and decides to publish it for you, (maybe without including your name or paying you). Perhaps someone who hacks into your computer decides to share an app you were planning on selling with the world (maybe before you were ready) and make money from it themselves. Now, technically you still have the work -- it was not stolen in the way a car or wallet is stolen. Your rights were infringed. Your agency was taken away from your work. Copyright is the set of laws that protect you in these situations.
+What if there was no copyright protection? You author a work (i.e. write a novel, compose a song, create an app), and someone wants to use it without your permission. Perhaps the sovereign emperor of the land likes your novel and decides to publish it for you, (maybe without including your name or paying you). Perhaps someone who hacks into your computer decides to share an app you were planning on selling with the world (maybe before you were ready) and make money from it themselves. Technically you still have your property -- it was not stolen in the way a car is stolen. Your rights were infringed. Your agency was taken away. Copyright is the set of laws that protect your rights in these situations.
 
 ### What Does Copyright Protect?
 
-Copyright laws are rather complicated. It's best to seek legal advice when it comes to details. This is not legal advice. With that said, you can find information online that helps explain copyright protection as it pertains to your jurisdiction. For example this [page](https://www.law.cornell.edu/uscode/text/17/106) lists rights protected by US copyright laws. For example, someone infringes your copyright if they copy your work to use it, modify it to make a derivative work, and/or distribute it, or the derived work without your consent. 
+Copyright laws are complicated. It's best to seek legal advice when it comes to details. This is not legal advice. With that said, you can find information online that helps explain copyright protection as it pertains to your jurisdiction. This [page](https://www.law.cornell.edu/uscode/text/17/106) lists rights protected by US copyright laws. For example, someone infringes your copyright if they copy your work to use it, modify it to make a derivative work, and/or distribute it, or the derived work without your consent. 
 
 ### What Does Copyright _Not_ Protect?
 
-That's more complicated to address. There are a few carve-outs to note: Copyright does not protect ideas, processes, or concepts. You now see that source code, being protected by copyright, is viewed more as a literary work than a procedure. Copyright does not protect works that are trivial or too small for protection. e.g. No court will protect my claim that I authored the three word phrase "Roses are Red." Moreover, copyright protection excludes a category of infringement known as "fair use" where someone copies a small part of your work for use we consider socially acceptable (e.g. including an excerpt in a book review). 
+That's more complicated to address. There are a few carve-outs to note: Copyright does not protect ideas, processes, or concepts. You now see that source code, being protected by copyright, is viewed more as a literary work than a procedure. Copyright does not protect works that are trivial or too small for protection. e.g. No court will protect my claim that I authored the three word phrase "Roses are Red." Moreover, copyright protection excludes a category of infringement known as _fair use_ where someone copies a small part of your work for use we consider socially acceptable (e.g. including an excerpt in a book review). 
 
 ### Copyright and Open Source
 
@@ -29,8 +31,9 @@ Open source means different things to different people. From a legal perspective
 
 There is considerable overlap between free software and open source, hence the merged acronym FOSS (or F/LOSS: adding _libre_ to remind people that the term _free_ in this context refers to freedoms, not to the absence of cost). There are sufficient differences between the two definitions that they will remain uncombined. 
 
-## What Should You Put in Your Code
+# Copyright and Open Source: The Pragmatic How-To
 
+## What Should You Put in Your Code
 You already read the section [Prepare your Publication](publishing/prepare.html#add-copyright-license-headers-to-your-code) page in this guide, but you have more questions. Note: this guidance is for code we write. We never remove someone else's copyright statement. We only add our copyright statements to code we write.
 
 Let's cover four cases: 
@@ -40,34 +43,28 @@ Let's cover four cases:
 1. New code that we are publishing
 1. New code that we are not planning to publish 
 
-#### Existing code that you are not modifying
-If you've published open source code at one of the Verizon Media legacy brands, your code will contain a copyright declaration that looks like:
+### Existing code that you are not modifying
+If you've published open source code at one of the Verizon Media legacy brands, your code will contain a copyright declaration that looks like: `Copyright 2014, Yahoo Inc.` or `Copyright 2014, Aol Inc.` etc.
 
-> Copyright 2014, Yahoo Inc.
+Even though we are now `Verizon Media`, you do not need to change the copyright notice text on code that was already published. The code previously published was marked correctly at the time. We don't have to change anything about that -- in fact it would be incorrect to change it. Copyright statements are not a freshness date, they are more like a timestamp.
 
-or
-> Copyright 2014, Aol Inc.
+### Existing code that you are modifying
+When modifying one of our existing open source projects, you don't need to alter the copyright header. You _can_ remove the year since we no longer display years on the copyright line. Don't add a date range (e.g. 2012-2017). You _can_ update the copyright entity name from "Oath Inc." to "Verizon Media" if you prefer, but you don't have to.
 
-Even though we are now called `Verizon Media`, you do not need to change the copyright on code that was already published. The code previously published was marked correctly as published by the entity that existed at the time. It's factually correct to say that in 2014, a project was published that had Aol's or Yahoo's copyright on it. We don't have to change anything about that -- in fact it would be incorrect to change it. Copyright statements are not a freshness date, they are a timestamp.
+### New code that we are publishing
+_Verizon Media_ is the name we now use on the copyright header of new projects we publish. When you add a new file to an existing open source project or publish a new project, you'll add a copyright header to it. New code should have the following text block above to the top of each source code file that was written by employees (and not computer generated).
 
-#### Existing code that you are modifying
-When modifying an existing open source project, you don't need to alter the copyright header. But you can remove the year since we no longer display years on the copyright line. Don't add a date range (e.g. 2012-2017). You can update the copyright entity name from "Oath Inc." to "Verizon Media" if you prefer, but you don't have to.
+> Copyright Verizon Media.
 
-#### New code that we are publishing
-_Verizon Media_ is our generally known designation and is the name we use on the copyright header. When you add a new file to an existing open source project or publish a new project, you'll add a copyright header to it. We now all work for Verizon Media (or one of its subsidiaries), so new code should be published declaring:
+> Licensed under the terms of the <`SPDX license name`> license . See LICENSE file in project root for terms.
 
-> Copyright Verizon Media
-> Licensed under the terms of the <`SPDX name for the project license`> license . See LICENSE file in project root for terms.
 
-Add the text block above to the top of each source code file that was written by employees and is not computer generated.
-
-#### New code that we are not publishing
-
-We do not require internal code to include a copyright statement. But it's a very good idea to have one since internal code sometimes becomes published external code (on purpose or by accident). Having an accurate copyright statement helps. It's good practice to add a header when creating new files. Also, some IDEs automatically put one in, so please configure it to put the right one in. 
+### New code that we are not publishing
+We do not require internal code to include a copyright statement. But it's a good idea to have one since internal code can become published external code (on purpose or by accident). Having an accurate copyright statement helps. It's good practice to add a header when creating new files. Also, some IDEs automatically put one in, so please configure it to use the right one. 
 
 The header should contain a copyright statement (`Copyright Verizon Media`) followed by the statement that indicates this is proprietary code (`All rights reserved.`). In the event we open source that code at a future date, we will then replace the `All rights reserved.` text with a license indicator that the code is licensed under an open source license (as shown above).
 
-#### Additional Information
-Internal code should not list the engineer's name as the copyright holder. The engineer is the _author_ of the code, but code written for work is assigned to the company. A person's name is the appropriate copyright holder on code written by people who are self-employed or who publish code not assigned to the company (it was determined to be outside the parameters of the assignment) or who have processed a copyright assignment with their company where the company re-assigns the code back to the employee. External code should only list your name as the copyright holder if you processed a copyright assignment. Otherwise the code copyright should declare `Verizon Media` as the copyright holder. It does not matter if code is published on a personal repo, as the copyright is an attribute of the code, not the repo.
+## Using your name on the copyright header
+Company code should not list the engineer's name as the copyright holder. The engineer is the _author_ of the code, but code written for work is assigned to the company. A person's name is the appropriate copyright holder on code written by people who are self-employed or who publish code not assigned to the company (i.e. it was determined to be outside the parameters of the assignment) or who have processed a copyright assignment with their company where the company re-assigns the code back to the employee. Your code should only list your name as the copyright holder if you processed a copyright assignment with the OSPO and legal. Otherwise the code copyright should declare `Verizon Media` as the copyright holder. It does not matter if code is published on a personal repo, as the copyright is an attribute of the code, not the repo.
 
 
