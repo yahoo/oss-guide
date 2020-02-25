@@ -52,8 +52,8 @@ When modifying one of our existing open source projects, you don't need to alter
 ### New code that we are publishing
 _Verizon Media_ is the name we now use on the copyright header of new projects we publish. When you add a new file to an existing open source project or publish a new project, you'll add a copyright header to it. New code should have the following text block above to the top of each source code file that was written by employees (and not computer generated).
 
-> Copyright Verizon Media. </p>
-> Licensed under the terms of the <`SPDX license name`> license. See LICENSE file in project root for terms.
+`Copyright Verizon Media.
+Licensed under the terms of the <`SPDX license name`> license. See LICENSE file in project root for terms.`
 
 ### New code that we are not publishing
 We do not require internal code to include a copyright statement. But it's a good idea to have one since internal code can become published external code (on purpose or by accident). Having an accurate copyright statement helps. It's good practice to add a header when creating new files. Also, some IDEs automatically put one in, so please configure it to use the right one. 
