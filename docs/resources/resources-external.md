@@ -18,6 +18,7 @@ The Verizon Media Open Source Program Office is aware of the following Verizon-o
 
 **Active Community brands managed by the Verizon Media Open Source Program Office**
 
+*   [Bindible-ui](https://github.com/bindible-ui)
 *   [Bullet-db](https://github.com/bullet-db)
 *   [Denali-Design](https://github.com/Denali-Design)
 *   [Screwdriver](https://github.com/screwdriver-cd)
