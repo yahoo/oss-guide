@@ -22,7 +22,7 @@ We suggest thinking about your project name early in the process. Before you sel
 
 ## Select the Appropriate License
 
-The OSPO is here to help you license your project. For an overview of open source licenses, check out [What is an open source license](/resources/license.html)? We prefer publishing code under permissive open source licenses such as Apache License 2.0, BSD 3-Clause, or MIT. We publish under other licenses when the specifics of the project warrant their use. Specifically:
+The OSPO is here to help you license your project. For an overview of open source licenses, check out [What is an open source license](../resources/license.html)? We prefer publishing code under permissive open source licenses such as Apache License 2.0, BSD 3-Clause, or MIT. We publish under other licenses when the specifics of the project warrant their use. Specifically:
 
 - We match the license to the project's needs. We usually consider the Apache 2.0 License as our go to option. When publishing code to certain communities, we may opt to use a license that is more consistent with the rest of the community. e.g. Node.JS projects tend to be licensed under the terms of the MIT license. 
 - We may publish sample code under the zLib or MIT-0 licenses because they don't require users to carry attribution forward. This makes sense for sample code that users might include in their apps.
