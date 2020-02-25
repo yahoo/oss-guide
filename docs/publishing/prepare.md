@@ -22,7 +22,7 @@ We suggest thinking about your project name early in the process. Before you sel
 
 ## Select the Appropriate License
 
-The OSPO is here to help you license your project. For an overview of open source licenses, check out [What is an open source license](/resources/what-is-license.md)? We prefer publishing code under permissive open source licenses such as Apache License 2.0, BSD 3-Clause, or MIT. We publish under other licenses when the specifics of the project warrant their use. Specifically:
+The OSPO is here to help you license your project. For an overview of open source licenses, check out [What is an open source license](/resources/license.html)? We prefer publishing code under permissive open source licenses such as Apache License 2.0, BSD 3-Clause, or MIT. We publish under other licenses when the specifics of the project warrant their use. Specifically:
 
 - We match the license to the project's needs. We usually consider the Apache 2.0 License as our go to option. When publishing code to certain communities, we may opt to use a license that is more consistent with the rest of the community. e.g. Node.JS projects tend to be licensed under the terms of the MIT license. 
 - We may publish sample code under the zLib or MIT-0 licenses because they don't require users to carry attribution forward. This makes sense for sample code that users might include in their apps.
@@ -43,7 +43,7 @@ More do's and don'ts:
 - We're a complicated company, so many groups get stuck on who the copyright holder is for their code. It is Yahoo Inc., Oath Inc. Verizon Media, Verizon, or something else. We'll guide you as to the appropriate choice.
 - Under normal circumstances, the copyright holder will be the name of our company, not the name of the developer who first authored the code.
 
-This part can get surprisingly complicated, especially when it comes to code projects with blended code set from different companies. Read more details about [Copyright and License headers](../resources/copyright.md). Please review the information on the [Contribute to Apache Software Foundation projects](../contributing/recordkeeping.html#contribute-to-apache-software-foundation-asf-projects.html) help page for contributions to ASF managed projects. Better yet, talk to us and we'll work with you to get to the right header text.
+This part can get surprisingly complicated, especially when it comes to code projects with blended code set from different companies. Read more details about [Copyright and License headers](../resources/copyright.html). Please review the information on the [Contribute to Apache Software Foundation projects](../contributing/recordkeeping.html#contribute-to-apache-software-foundation-asf-projects.html) help page for contributions to ASF managed projects. Better yet, talk to us and we'll work with you to get to the right header text.
 
 ## Scrub Your Repository
 
@@ -57,4 +57,4 @@ This part can get surprisingly complicated, especially when it comes to code pro
 Please refer to the [repository standard](../publishing/publishing-template/Spec-READ-AND-DELETE.html) requirements for repository meta-files. Then push your code to a repository or branch and grant us read access.
 
 ### Process
-Once you've finished these preparations, it's time to open a JIRA ticket with the OSPO and [get approval](../publishing/approval.md). You can also go back to the [Publishing Overview](../publishing/publish.md) page.
+Once you've finished these preparations, it's time to open a JIRA ticket with the OSPO and [get approval](../publishing/approval.html). You can also go back to the [Publishing Overview](../publishing/publish.html) page.
