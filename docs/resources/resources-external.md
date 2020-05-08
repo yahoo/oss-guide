@@ -12,6 +12,8 @@ The Verizon Media Open Source Program Office is aware of the following Verizon-o
 *   [Yahoo](https://github.com/yahoo)
 *   [Aol](https://github.com/aol)
 *   [Flurry](https://github.com/flurry)
+*   [Paranoids](https://github.com/paranoids)
+*   [TheParanoids](https://github.com/TheParanoids)
 *   [Verizon Ad Platforms](https://github.com/verizonadplatforms)
 *   [Verizon Media Group](https://github.com/verizonmedia)
 *   [Verizon Media Private](https://github.com/VerizonMediaPrivate)
