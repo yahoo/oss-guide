@@ -7,7 +7,7 @@ nav_order: 5
 
 The Verizon Media Open Source Program Office is aware of the following Verizon-owned organizations on GitHub.com
 
-**Active Company brands managed by the Open Source Program Office**
+**Active Company Brands Managed by the Open Source Program Office**
 
 *   [Aol](https://github.com/aol) (will be retired)
 *   [Flurry](https://github.com/flurry)
@@ -19,7 +19,7 @@ The Verizon Media Open Source Program Office is aware of the following Verizon-o
 *   [Verizon Media Private](https://github.com/VerizonMediaPrivate) (for private collaborations and staging)
 *   [Yahoo](https://github.com/yahoo)
 
-**Active Community brands managed by the Verizon Media Open Source Program Office**
+**Active Community Brands Managed by the Verizon Media Open Source Program Office**
 
 *   [Bindable-ui](https://github.com/bindable-ui)
 *   [Bullet-db](https://github.com/bullet-db)
@@ -28,7 +28,7 @@ The Verizon Media Open Source Program Office is aware of the following Verizon-o
 *   [Ultrabrew](https://github.com/ultrabrew)
 *   [Vespa-Engine](https://github.com/vespa-engine)
 
-**Active organization not managed by the Verizon Media Open Source Program Office**
+**Active Organizations Not Managed by the Verizon Media Open Source Program Office**
 
 *   [Oncue](https://github.com/oncue)
 *   [Millennial Media](https://github.com/millennialmedia)
@@ -41,13 +41,13 @@ The Verizon Media Open Source Program Office is aware of the following Verizon-o
 *   [Verizon Geeks](https://github.com/Verizon-Geeks)
 *   [Verizon Labs](https://github.com/verizonlabs)
 
-**Reserved brands managed by the Verizon Media Open Source Program Office**
+**Reserved Organizations Managed by the Verizon Media Open Source Program Office**
 
 *   [Paranoids](https://github.com/paranoids)
 *   [Verizon Business](https://github.com/verizonbusiness)
 *   [Verizon Consumer](https://github.com/verizonconsumer)
 
-**Inactive, Archived, and Deprecated brands**
+**Inactive, Archived, and Deprecated Organizations**
 
 *   [Adaptv](https://github.com/adaptv)
 *   [Aol Archive](https://github.com/aolarchive)
