@@ -40,6 +40,7 @@ The Verizon Media Open Source Program Office is aware of the following Verizon-o
 *   [Verizon Enterprise](https://github.com/protectwise)
 *   [Verizon Geeks](https://github.com/Verizon-Geeks)
 *   [Verizon Labs](https://github.com/verizonlabs)
+*   [Verizon Network Planning](https://github.com/vz-etech)
 
 **Reserved Organizations Managed by the Verizon Media Open Source Program Office**
 
