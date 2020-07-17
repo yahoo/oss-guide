@@ -7,7 +7,7 @@ has_children: true
 
 # Publish a New Open Source Project
 
-The Verizon Media Open Source Program Office (OSPO) provides services to help engineers at Verizon Media prepare code for external publication, promote projects, and build open source communities. If you are interested in open source collaboration, we are here to help. To get an overview of our program, vist the [OSPO Welcome Page](http://yo/ospo) intranet page, chat with us on our internal Slack channel (#opensource), or send an email to ospo@.
+The Verizon Media Open Source Program Office (OSPO) provides services to help engineers at Verizon Media prepare code for external publication, promote projects, and build open source communities. If you are interested in open source collaboration, we are here to help. To get an overview of our program, vist the OSPO Welcome Page intranet page, chat with us on our internal Slack channel (#opensource), or send an email to ospo@.
 
 This page highlights the steps you'll take when it comes to publishing company code as an open source project. We require you to follow this process to help prevent over disclosure of information that could result in problems related to copyright, patent, trademark, or information we need to protect. As you plan your publication, remember that you must complete the review process and obtain OSPO approval before you publish any code externally.
 
@@ -25,16 +25,16 @@ Also before publishing a new project, let's find out if we could contribute your
 1. Create an open source branch (or separate repository) on an internal GitHub Enterprise instance and grant us read access so we can review your code.
 1. Tell us where you want your project to be hosted once you publish it. See the list of [Verizon Media managed external resources](../resources/resources-external.md).
 1. Collect the list of employees who will need write access to the project once it's published
-1. Visit the [Open Source Program Office](https://yo/opso) page on our intranet and create a JIRA ticket to initiate the review request.
+1. Visit the Open Source Program Office page on our intranet and create a JIRA ticket to initiate the review request.
 
 ## [Step 2:](../publishing/approval.md) Get Approvals
 
 The OSPO handles most open source project approval steps for you. You can find the details on the [Approvals](../publishing/approval.md) page of this guide. Keep in mind there may be other approvals you should have in hand before coming to us, and these depend on the nature of the project you seek to publish. 
 
 1. Make sure your manager has approved your plan to publish this project before you request a publication review. We have a step in the review process where we ask about other people at the company who may need to endorse this publication too.
-1. If your project contains a novel idea that might be eligible for a patent, review the [patent submission process](https://yo/patent) on the intranet. Please complete the patent process before we publish the code. 
-1. There are certain cases where you will complete information related to export control. Please review the [export control guide](https://yo/export) on the intranet to determine if your publication needs to go through this process.
-1. If your project contains data (presumably scrubbed, anonymized, etc.), please review the [Global Privacy](https://yo/privacy) policies on the intranet and get their approval for publishing data sets.
+1. If your project contains a novel idea that might be eligible for a patent, review the patent submission process on the intranet. Please complete the patent process before we publish the code. 
+1. There are certain cases where you will complete information related to export control. Please review the export control guide on the intranet to determine if your publication needs to go through this process.
+1. If your project contains data (presumably scrubbed, anonymized, etc.), please review the Global Privacy policies on the intranet and get their approval for publishing data sets.
 
 ## [Step 3:](../publishing/release.md) Release and Publicize                  
 
