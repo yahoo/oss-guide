@@ -19,14 +19,14 @@ Include the answers to the following questions into a JIRA ticket assigned to th
  1. What is the business value to Verizon Media for publishing this code? (related: Why did you write this code in the first place? At that time, did you plan that you'll be publishing it as an open source project?)
  1. Was all the code in this project authored by a Verizon Media employee? If not, please elaborate.
  1. Does your manager and project architect agree this project should be published?
- 1. Have you completed a tech council review of the project (and its intent to be published)? See the [Tech Council Review Queue worksheet](http://yo/tech-mtc) on our intranet for details about the review process.
+ 1. Have you completed a tech council review of the project (and its intent to be published)? See the Tech Council Review Queue worksheet on our intranet for details about the review process.
  1. Where is this code used in production? (If this code is not in production, why not?)
  1. Has your team allocated time to support this code once it's published?
  1. Have you prepared the code according to the process detailed on the [Publish](../publishing/publish.md) page?
  1. Do you need any apps or webhooks enabled for the repo, such as Travis CI?
  1. Have you prepared a communications plan (e.g. blog post, podcast, meetup presentation) announcing this project? 
  1. Have you filed any patents related to the code you want to publish?
- 1. Have you or the paranoids performed a security scan or review of your repo? If relevant, see yo/securityhelpdesk to request a Paranoids Security Review (PSR).
+ 1. Have you or the paranoids performed a security scan or review of your repo? If relevant, see the internal security help desk to request a Paranoids Security Review (PSR).
 
 ## Review and Discussion 
 
