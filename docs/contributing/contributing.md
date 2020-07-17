@@ -7,7 +7,7 @@ nav_order: 3
 
 # Contributing to Open Source Projects
 
-The Verizon Media Open Source Program Office (OSPO) provides services to help engineers at Verizon Media prepare code for external publication, promote projects, and build open source communities. If you are interested in open source collaboration, we are here to help. To get an overview of our program, vist the [OSPO Welcome Page](http://yo/ospo) intranet page, chat with us on our internal Slack channel (#opensource), or send an email to ospo@.
+The Verizon Media Open Source Program Office (OSPO) provides services to help engineers at Verizon Media prepare code for external publication, promote projects, and build open source communities. If you are interested in open source collaboration, we are here to help. To get an overview of our program, vist the OSPO Welcome Page intranet page, chat with us on our internal Slack channel (#opensource), or send an email to ospo@.
 
 This page highlights the steps you'll take when it comes to contributing company code as an existing open source project managed by someone else. 
 
