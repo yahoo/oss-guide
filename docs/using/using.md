@@ -7,7 +7,7 @@ has_children: true
 
 # Using Open Source Code
 
-The Verizon Media Open Source Program Office (OSPO) provides services to help engineers at Verizon Media succeed with open source. If you are interested to learn more about open source, we are here to help. To get an overview of our program, vist the [OSPO Welcome Page](http://yo/ospo) intranet page, chat with us on our internal Slack channel (#opensource), or send an email to ospo@.
+The Verizon Media Open Source Program Office (OSPO) provides services to help engineers at Verizon Media succeed with open source. If you are interested to learn more about open source, we are here to help. To get an overview of our program, vist the OSPO Welcome Page intranet page, chat with us on our internal Slack channel (#opensource), or send an email to ospo@.
 
 This page highlights issues engineering teams need to know about using open source code in their apps. 
 
