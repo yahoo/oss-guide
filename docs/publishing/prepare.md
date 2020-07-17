@@ -14,7 +14,7 @@ The Verizon Media Open Source Program Office (OSPO) is here to help engineers at
 We suggest thinking about your project name early in the process. Before you select a name read these suggestions to familiarize yourself with common naming issues. Note, we're not going to name your project for you, but we're going to block you from publishing a project with a name that doesn't work. 
 
 - We prefer descriptive names that clearly convey your project's purpose.
-- Don't use a name that is protected by trademark. We'll connect you to our [Trademark Search Request (TSR)](http://yo/tsr) process on the intranet if you are unsure about the protected status of the name you propose.
+- Don't use a name that is protected by trademark. We'll connect you to our Trademark Search Request (TSR) process on the intranet if you are unsure about the protected status of the name you propose.
 - Don't use a Verizon or Verizon Media brand name.
 - Avoid using a third-party brand name. In certain cases you can use them as descriptors. For example, you can use "Test Libraries for Java" but don't call something "Java Test Libraries."
 - Don't use cumbersome names. Name your project as if you expect it to be widely adopted.
