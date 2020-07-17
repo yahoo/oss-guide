@@ -21,7 +21,7 @@ The Verizon Media Open Source Program Office (OSPO) is here to help engineers at
 
 We will publish your blog post announcing the new project at the time specified by our communications plan. Some projects seek to soft-launch and be public for a few weeks before we blog about it. Other projects schedule their blog post and publication to be synchronized with a conference presentation or other relevant launch event. As long as we have a reviewed and approved communications plan in place, we can accomodate your needs.
 
-You may opt to set up a project website, documentation pages, or community group (e.g. using GoogleGroups, Gitter, Slack, etc.). We can provide you with our [Awesome Project website template](https://yo/open-source-website) on our intrate, which you can use to create your community site, but we expect that you and the community you develop will maintain the site. Note: before launching a community website, designing a project logo, or registering a project domain name, please work with the OSPO on a communications plan so that we can get the proper approval and registrations in place first.
+You may opt to set up a project website, documentation pages, or community group (e.g. using GoogleGroups, Gitter, Slack, etc.). We can provide you with our _Awesome Project website template_ on our intranet, which you can use to create your community site, but we expect that you and the community you develop will maintain the site. Note: before launching a community website, designing a project logo, or registering a project domain name, please work with the OSPO on a communications plan so that we can get the proper approval and registrations in place first.
 
 ## First Quarter
 
