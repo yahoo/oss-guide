@@ -1,8 +1,6 @@
-# Verizon Media Open Source Guide
+# Corporate Open Source Guide
 
-The Verizon Media Open Source guide project is a public version of the internal guide used at Verizon Media to help engineers navigate our policies and services.
-
-We make this guide public out of our belief that sharing code and content brings out our best while inviting others to help us get better. If you have edits, suggestions, or questions about this guide, please open an issue on this project. If you'd like to fork this guide and use it at your company, please do so but we'd love to know about it too. 
+This guide assists a corporate based open source program office organize and communicate guidance for open source activities within the organization.
 
 ## Background
 
@@ -12,15 +10,11 @@ This guide is built using GitHub Pages with Jekyll and the Just the Docs theme.
 
 ## Contribute
 
-Please refer to [the contributing.md file](Contributing.md) for information about how to get involved. We welcome issues, questions, and pull requests.
+Please refer to [the contributing.md file](Contributing.md) for information about how to get involved, to open issues, questions, and pull requests.
 
 ## Maintainers
-- Ashley Wolf: awolf@verizonmedia.com
-- Gil Yehuda: gyehuda@verizonmedia.com
+- Gil Yehuda: gil@gilyehuda.com
 
-Thank you to Megan Leney and Ben Pearson for helping us refine this guide.
-
-## License
-This guide is inspired by, and some sections are derivative of a similar guide published by Google. 
-Their work and ours is licensed under CC-BY-4.0.
-
+## License and Acknowledgements
+This guide is inspired by, and some sections are derivative of a similar guide published by Google and by Verizon Media/Yahoo
+Their work as well as this is licensed under CC-BY-4.0.
