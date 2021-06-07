@@ -1,7 +1,7 @@
 title: Open Source Guide
 description: A guide for open source program offices
 baseurl: "/oss-guide" # the subpath of your site, e.g. /blog
-url: "https://verizonmedia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gyehuda.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 remote_theme: pmarsceill/just-the-docs
 
 # Set a path/url to a logo that will be displayed instead of the title
@@ -17,4 +17,4 @@ search_enabled: true
 heading_anchors: true
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright Verizon Media. Content licensed under CC-BY-4.0"
+footer_content: "Content licensed under CC-BY-4.0"
