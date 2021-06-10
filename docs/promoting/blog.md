@@ -7,25 +7,23 @@ nav_order: 1
 
 # Blogging Your Open Source Projects
 
-The Verizon Media Open Source Program Office (OSPO) provides services to help engineers at Verizon Media prepare code for external publication, promote projects, and build open source communities. If you are interested in open source collaboration, we are here to help. To get an overview of our program, vist the OSPO Welcome Page intranet page, chat with us on our internal Slack channel (#opensource), or send an email to ospo@.
+The Corporate Open Source Program Office (OSPO) provides services to help engineers at our copmany prepare code for external publication, promote projects, and build open source communities. If you are interested in open source collaboration, we are here to help. To get an overview of our program, vist the OSPO Welcome Page intranet page, or reach out to us directly.
 
 This page highlights how the OSPO helps you promote your project using blogs and podcasts.
 
 ### Step Zero: Planning for Success
 
-Verizon Media hosts a tech blog called the [Yahoo Developer Network blog](https://yahoodevelopers.tumblr.com/). We invite all tech content from any engineering group to publish technical content to this blog. After you publish your blog post, the OSPO promotes it internally and externally.
+We host a tech blog ... We invite all tech content from any engineering group to publish technical content to this blog. After you publish your blog post, the OSPO promotes it internally and externally.
 
 ### Did You Say Podcasts?
 
-For many people, podcasting is a more engaging way to share and consume content than blog posts. Verizon Media hosts a podcast called the [Dash Open](https://developer.yahoo.com/podcasts/). We share our episodes on [Apple Podcasts](https://itunes.apple.com/us/podcast/dash-open-podcast/id1446078348), [Soundcloud](https://soundcloud.com/ydn) and [Spotify](https://open.spotify.com/show/1r8v5scdWfGaK2n4R5f0Fi). 
-
-Our podcasts follow a simple conversational style where the host prompts the guest(s) to describe the project they are working on or to share some message for the listeners. We edit the conversation to get to about 5-10 minutes of content. We transcribe the podcast to text for three reasons:
+For many people, podcasting is a more engaging way to share and consume content than blog posts. We host a podcast ... and share our episodes on Apple Podcasts, Soundcloud, and Spotify. Our podcasts follow a simple conversational style where the host prompts the guest(s) to describe the project they are working on or to share some message for the listeners. We edit the conversation to get to about 5-10 minutes of content. We transcribe the podcast to text for three reasons:
 
 1. Accessibility. We know podcasts are great, but not everybody hears. We want all people to have access to our content. 
 1. Convenience. Even those of us who hear sometimes prefer to read a podcast; like when we're in the office and don't have our earbuds handy.
 1. Indexing. As we get more episodes, we expect people to search for a conversation. It's a lot easier to index text for the search engine. 
 
-If you record a podcast with us, we'll promote it by pointing to our [Dash Open](https://developer.yahoo.com/podcasts/) website so that it points to the version with full transcripts. You can think of a podcast as a form of a blog post. When you think of a blog post, please consider the following steps we'll take to make your post a reality.
+If you record a podcast with us, we'll promote it by pointing to our website so that it points to the version with full transcripts. You can think of a podcast as a form of a blog post. When you think of a blog post, please consider the following steps we'll take to make your post a reality.
 
 ## Step 1: Consider the Reader
 
