@@ -7,7 +7,7 @@ has_children: true
 
 # Using Open Source Code
 
-The Verizon Media Open Source Program Office (OSPO) provides services to help engineers at Verizon Media succeed with open source. If you are interested to learn more about open source, we are here to help. To get an overview of our program, vist the OSPO Welcome Page intranet page, chat with us on our internal Slack channel (#opensource), or send an email to ospo@.
+The Corporate Open Source Program Office (OSPO) provides services to help engineers at our company succeed with open source. If you are interested to learn more about open source, we are here to help. To get an overview of our program, vist the OSPO Welcome Page intranet page, or chat with us directly.
 
 This page highlights issues engineering teams need to know about using open source code in their apps. 
 
@@ -15,7 +15,7 @@ This page highlights issues engineering teams need to know about using open sour
 
 Open source code is out there and available for you to use. It's better for you to use existing, widely-adopted open source code rather than reinventing a solution to a problem that’s already been solved. That assumes that the open source project you found is good code. Also, there are legal implications any time you use someone else’s code. 
 
-As an engineer on a project, it’s your responsibility to make sure the code you use solves the intended problem. Be sure to consult with your architect and the tech council to determine if you should use open source code. The Verizon Media Open Source Program Office (OSPO) is here to help you with licensing questions. If you’re not sure about the implications of using open source code, ask the OSPO on slack at #opensource or email ospo@ with any questions.
+As an engineer on a project, it’s your responsibility to make sure the code you use solves the intended problem. Be sure to consult with your architect and the tech council to determine if you should use open source code. The  Open Source Program Office (OSPO) is here to help you with licensing questions. If you’re not sure about the implications of using open source code, contact the OSPO with any questions.
 
 ## The Open Source License
 
@@ -35,7 +35,7 @@ We can use code licensed under  a permissive license. When that code is used in 
 
 Restrictive licenses grant permission to use the code, but they include terms that give us pause since they could pose additional work for us to comply with. Moreover, depending on how we're using the code, we might find it better for us not to use the open source code. Free Software licenses such GPLv2, GPLv3, LGPLv2.1, or LGPLv3 impose obligations that may require us to make code available externally. MPL and EPL also contain reciprocal terms that are sometimes problematic. **Note**: problematic does not mean we can't use it at all, it means we need to make sure we are using it correctly. 
 
-We can use code licensed under restrictive licenses, but we avoid including such code in distributed products, unless it is part of the product strategy. We avoid using restrictive licenses in mobile apps or in binary products. When it comes to embedded hardware, it's often the case we have to use restrictive licenses in the product, and will address this as an exceptional situation for Verizon Media. 
+We can use code licensed under restrictive licenses, but we avoid including such code in distributed products, unless it is part of the product strategy. We avoid using restrictive licenses in mobile apps or in binary products. When it comes to embedded hardware, it's often the case we have to use restrictive licenses in the product, and will address this as an exceptional situation for the company. 
 
 Speaking of exceptional situations, please read our guidance on the [AGPL License](../using/agpl.md).
 
