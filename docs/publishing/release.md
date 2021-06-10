@@ -7,12 +7,12 @@ nav_order: 3
 
 # Publishing your Project: Step 3. Release and Publicize
 
-The Verizon Media Open Source Program Office (OSPO) is here to help engineers at Verizon Media prepare code for external publication, promote projects, and build open source communities. Our process is designed to set your project up for success, and to comply with relevant company policies. In Step 2 we outlined the Open Source project publication [approval](../publishing/approval.md) process. This page highlights the process for releasing and publicizing your project.
+The Corporate Open Source Program Office (OSPO) is here to help engineers at our company prepare code for external publication, promote projects, and build open source communities. Our process is designed to set your project up for success, and to comply with relevant company policies. In Step 2 we outlined the Open Source project publication [approval](../publishing/approval.md) process. This page highlights the process for releasing and publicizing your project.
 
 ## Publication Process
 
 1. The OSPO reviews projects during our open office hours (Monday mornings at 9:00 AM Pacific time). If the OSPO receives your project after 9:00 AM on Monday, we will review it the following Monday.
-1. If we approve your project for publication, we schedule your launch (typically on Tuesday at 11:00 AM Pacific time). 
+1. If we approve your project for publication, we schedule your launch. 
 1. If you'd like to schedule for a different day or time, indicate your preferred day and time in the ticket.
 1. At the designated time, we'll change the repo settings to public.
 1. After about two weeks, we'll review project settings and reduce admin permissions to write permissions for project committers. If you need admin rights, contact the OSPO.
@@ -41,7 +41,7 @@ After you have published your project, it's time to start accepting contribution
 - If you use our PULL_REQUEST_TEMPLATE, contributors do not have to sign a CLA with us. The template contains what is, in effect, a DCO. 
 - To encourage positive community interactions, we recommend you follow the [Issue Triage](../resources/issue-triage.md) guidelines.
 
-When projects first launch we expect all the contributors and committers on the project are Verizon Media employees. We believe one measure of success is how many contributors are not employees. We encourage you to see and support external contributors to our projects. Contact the OSPO to grant committer access. We will include Verizon Media employees in the GitHub org and will specify non-employees as external collaborators. 
+When projects first launch we expect all the contributors and committers on the project are employees. We believe one measure of success is how many contributors are not employees. We encourage you to see and support external contributors to our projects. Contact the OSPO to grant committer access. We will include employees in the GitHub org and will specify non-employees as external collaborators. 
 
 ## Project Hospice 
 
