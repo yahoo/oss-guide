@@ -7,7 +7,7 @@ parent: Launching Mobile Apps
 
 # Publishing Binaries 
 
-The Verizon Media Open Source Program Office (OSPO) provides services to help engineers at Verizon Media succeed with open source. If you are interested to learn more about open source, we are here to help. To get an overview of our program, vist the OSPO Welcome Page intranet page, chat with us on our internal Slack channel (#opensource), or send an email to ospo@.
+The Corporate Open Source Program Office (OSPO) provides services to help engineers at our copmany succeed with open source. If you are interested to learn more about open source, we are here to help. To get an overview of our program, vist the OSPO Welcome Page intranet page, or reach us directly.
 
 This page highlights issues engineering teams need to know about open source code in their binary apps. 
 
@@ -31,4 +31,4 @@ While publishing desktop apps is less common these days, if we publish them, we 
 
 ## Server-installed or Embedded Apps
 
-Complying with installed open source distributions gets complicated. Many devices do not provide a UI to include a human-readable NOTICES file. We can comply with notices obligations by distributing a hard copy or by publishing a file on our open source website associated with the product. Also many embedded apps include open source licenses that contain clauses requiring some software to be made available to the end user. If you are working on a project that embeds code onto a hardware device, contact the OSPO on slack at #opensource or email ospo@ so that we can work with you on the compliance processes you'll need to have in place before product launch is approved.
+Complying with installed open source distributions gets complicated. Many devices do not provide a UI to include a human-readable NOTICES file. We can comply with notices obligations by distributing a hard copy or by publishing a file on our open source website associated with the product. Also many embedded apps include open source licenses that contain clauses requiring some software to be made available to the end user. If you are working on a project that embeds code onto a hardware device, contact the OSPO so that we can work with you on the compliance processes you'll need to have in place before product launch is approved.
