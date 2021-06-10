@@ -7,7 +7,7 @@ nav_order: 5
 
 # Promoting Your Open Source Projects
 
-The Verizon Media Open Source Program Office (OSPO) provides services to help engineers at Verizon Media prepare code for external publication, promote projects, and build open source communities. If you are interested in open source collaboration, we are here to help. To get an overview of our program, visit the OSPO Welcome Page intranet page, chat with us on our internal Slack channel (#opensource), or send an email to ospo@.
+The Corporate Open Source Program Office (OSPO) provides services to help engineers at our copmany prepare code for external publication, promote projects, and build open source communities. If you are interested in open source collaboration, we are here to help. To get an overview of our program, visit the OSPO Welcome Page intranet page, or reach out to us directly.
 
 This page highlights the levels of support we provide to the open source projects we publish. 
 
@@ -31,7 +31,7 @@ This level of support is for projects with a strategic to value and robust engin
 
 We will provide your project:
  
-1. Recognition on the [Yahoo Open Source](https://opensource.yahoo.com) front page.
+1. Recognition on the website front page.
 1. Security alert notices and resolution tracking.
 1. Notifying the project owners of important conference deadlines relevant to your project.
 1. Reviewing proposals before you submit them to a conference "Call for Papers" (CFP) to maximize your chance of acceptance.
@@ -42,7 +42,7 @@ We will provide your project:
 
 ## Tier 2: Limited Support
 
-This level of support is for projects that further Verizon Media's technology goals and interests. To receive limited support, a project must:
+This level of support is for projects that further our technology goals and interests. To receive limited support, a project must:
 
 - Have an internal employee project owner that serves as point of contact for all issues.
 - Be at least minimally active (e.g. having a meaningful update in the last three months).
@@ -55,7 +55,7 @@ This level of support is for projects that further Verizon Media's technology go
 
 We will provide your project:
  
-1. Recognition on the [Yahoo Open Source](https://opensource.yahoo.com) website and related open source engineering pages.
+1. Recognition on the website and related open source engineering pages.
 1. Security alert notices and resolution tracking.
 1. Notifying the of important conference deadlines posted internally in our #tech-events slack channel.
 
@@ -81,4 +81,4 @@ We archive a project.
 - When the project maintainers are not responsive to resolve a security alert.
 - When the project is inactive (e.g. no meaningful changes in 2 years).
 
-We will mark these projects as Archived. This allows people to read and fork the code, while it also sends the message that we are not actively supporting the code. Note: if you are the only project maintainer of an active open source project that is employed at Verizon Media, but you plan to leave the company, contact the OSPO. You can fork the project and maintain it in a different location, or we can identify an employee to serve as our contact for project updates. 
+We will mark these projects as Archived. This allows people to read and fork the code, while it also sends the message that we are not actively supporting the code. Note: if you are the only project maintainer of an active open source project that is employed at the copmany, but you plan to leave the company, contact the OSPO. You can fork the project and maintain it in a different location, or we can identify an employee to serve as our contact for project updates. 
