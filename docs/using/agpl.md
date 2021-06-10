@@ -7,7 +7,7 @@ parent: Using Open Source Code
 
 # The AGPL license
 
-The Verizon Media Open Source Program Office (OSPO) provides services to help engineers at Verizon Media succeed with open source. If you are interested to learn more about open source, we are here to help. To get an overview of our program, vist the OSPO Welcome Page intranet page, chat with us on our internal Slack channel (#opensource), or send an email to ospo@.
+The Corporate Open Source Program Office (OSPO) provides services to help engineers at Verizon Media succeed with open source. If you are interested to learn more about open source, we are here to help. To get an overview of our program, vist the OSPO Welcome Page intranet page, or chat with us directly.
 
 This page highlights our policy with respect to the [GNU Affero General Public License (AGPL)](https://www.gnu.org/licenses/agpl-3.0.en.html). It's a special license worth special treatment.
 
