@@ -17,7 +17,7 @@ For this reason we put a license in the root of all of our code projects and add
 
 By default we use the Apache License 2.0 since it is permissive (allowing people to use the code with very few restrictions) and handles patents in a way we think is clear and fair. It is also widely used and understood. We also use the New BSD and MIT licenses, usually in cases where the community norm is to use those licenses (e.g. Node.JS modules are nearly all licensed MIT, so we'll use that too). Our intent is to be clear, grant permissions, and fit in with the community we're operating in.
 
-There are times we are required to, or it is ideal to, license code under other licenses. For example, if we are extending code licensed under the GPL license, we'll license our derivative work under GPL in compliance with the terms of the license. In those cases, please see [our GPLCC declaration](https://developer.yahoo.com/opensource/docs/GPL-Cooperation-Commitment.html) assuring that if someone violates the terms of our GPL licensed code, we'll extent to them an opportunity to cure and reinstate their license.  
+There are times we are required to, or it is ideal to, license code under other licenses. For example, if we are extending code licensed under the GPL license, we'll license our derivative work under GPL in compliance with the terms of the license. In those cases,an GPLCC assurange may assure that if someone violates the terms of our GPL licensed code, we'll extent to them an opportunity to cure and reinstate their license.  
 
 ### Are All Open Source Licenses Alike?
 
