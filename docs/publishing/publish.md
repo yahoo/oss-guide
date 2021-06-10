@@ -7,7 +7,7 @@ has_children: true
 
 # Publish a New Open Source Project
 
-The Verizon Media Open Source Program Office (OSPO) provides services to help engineers at Verizon Media prepare code for external publication, promote projects, and build open source communities. If you are interested in open source collaboration, we are here to help. To get an overview of our program, vist the OSPO Welcome Page intranet page, chat with us on our internal Slack channel (#opensource), or send an email to ospo@.
+The Corporate Open Source Program Office (OSPO) provides services to help engineers at the copmany prepare code for external publication, promote projects, and build open source communities. If you are interested in open source collaboration, we are here to help. To get an overview of our program, vist the OSPO Welcome Page intranet page, or contact us directly.
 
 This page highlights the steps you'll take when it comes to publishing company code as an open source project. We require you to follow this process to help prevent over disclosure of information that could result in problems related to copyright, patent, trademark, or information we need to protect. As you plan your publication, remember that you must complete the review process and obtain OSPO approval before you publish any code externally.
 
@@ -20,10 +20,10 @@ Also before publishing a new project, let's find out if we could contribute your
 ## [Step 1:](../publishing/prepare.md) Prepare Your Request
 
 1. Propose a name for your project. We'll explain why some names won't work.
-1. Add a [copyright notice](../resources/copyright.md) to the top of each source code file written by a Verizon Media employee. 
+1. Add a [copyright notice](../resources/copyright.md) to the top of each source code file written by an employee. 
 1. Prepare the repository for publication based on our [repository standard](../publishing/publishing-template/Spec-READ-AND-DELETE.html).
 1. Create an open source branch (or separate repository) on an internal GitHub Enterprise instance and grant us read access so we can review your code.
-1. Tell us where you want your project to be hosted once you publish it. See the list of [Verizon Media managed external resources](../resources/resources-external.md).
+1. Tell us where you want your project to be hosted once you publish it. See the list of [Company managed external resources](../resources/resources-external.md).
 1. Collect the list of employees who will need write access to the project once it's published
 1. Visit the Open Source Program Office page on our intranet and create a JIRA ticket to initiate the review request.
 
