@@ -36,10 +36,10 @@ It may be appropriate to publish code to your personal account. e.g. your code (
 1. Sample code for a talk at an event not related to the copmany.
 1. Unofficial, experimental, or sample code.
 
-Any code referenced from our documentation or blog post belongs in a [managed company organization](../resources/resources-external.md). If you're unsure whether a project should be published in a Verizon Media organization or under your personal account, ask us.
+Any code referenced from our documentation or blog post belongs in a [managed company organization](../resources/resources-external.md). If you're unsure whether a project should be published in a copmany organization or under your personal account, ask us.
 
-If you are an Verizon Media organization owner, please complete the organization profile properly.
-1. **Profile**: All Verizon Media organizations are required to have a profile picture with a brand logo, if you need help identifying the proper logo to use, or need to create a new logo for your project, contact the OSPO for help.  
+If you are an company organization owner, please complete the organization profile properly.
+1. **Profile**: All company organizations are required to have a profile picture with a brand logo, if you need help identifying the proper logo to use, or need to create a new logo for your project, contact the OSPO for help.  
 1. **Member Privileges**: Disable the option to allow organization members to create repositories. Set Base Permissions to the lowest possible permission level to avoid giving members more access than is required. You can always create teams to give people more permissions to specific repos. Disable the option to allow members to change repository visibilities for this organization. Disable the option to delete or transfer repositories for this organization.
 1. **Security**: Enable the option to require two-factor authentication for everyone in the organization.
 
