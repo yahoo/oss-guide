@@ -7,13 +7,13 @@ nav_order: 3
 
 # Contributing to Open Source Projects
 
-The Verizon Media Open Source Program Office (OSPO) provides services to help engineers at Verizon Media prepare code for external publication, promote projects, and build open source communities. If you are interested in open source collaboration, we are here to help. To get an overview of our program, vist the OSPO Welcome Page intranet page, chat with us on our internal Slack channel (#opensource), or send an email to ospo@.
+The Corporate Open Source Program Office (OSPO) provides services to help engineers at this company prepare code for external publication, promote projects, and build open source communities. If you are interested in open source collaboration, we are here to help. To get an overview of our program, vist the OSPO Welcome Page intranet page, or reach us directly.
 
 This page highlights the steps you'll take when it comes to contributing company code as an existing open source project managed by someone else. 
 
 ### Step Zero: Planning for Success
 
-We encourage Verizon Media engineers to contribute to projects we rely upon. We seek to be good open source citizens. If you find a bug, or can make some code better, we want to enable you do it. However, we want you to be aware of some concerns that you should keep in mind. Most of the time, these will not come up. Given the number of projects we work on, the number of engineers we have, and the complexity of some projects, we occasionally run into blocking issues.
+We encourage engineers to contribute to projects we rely upon. We seek to be good open source citizens. If you find a bug, or can make some code better, we want to enable you do it. However, we want you to be aware of some concerns that you should keep in mind. Most of the time, these will not come up. Given the number of projects we work on, the number of engineers we have, and the complexity of some projects, we occasionally run into blocking issues.
 
 Please read the guidelines below. If none of these issues are relevant to your pull request, then go ahead and contribute to an open source project. You do not need to get approval for every pull request. The overhead involved in these approvals is not worth it. That said, if the issues below are relevant, or if you have **any** concerns about your contribution, ask us. We're here to help you.
 
