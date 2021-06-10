@@ -8,7 +8,7 @@ grand_parent: Publishing a New Open Source Project
 
 # Your Open Source Project Name
 _Describe what does this project does in one line followed by your project logo if you have one. e.g._
-> A project skeleton for open source projects at Verizon Media.
+> A project skeleton for open source projects at this company.
 
 Please keep this short. Copy it to the GitHub's project description. 
 
