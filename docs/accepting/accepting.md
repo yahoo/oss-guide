@@ -7,7 +7,7 @@ has_children: false
 
 # Accepting Contributions to Open Source Projects
 
-The Verizon Media Open Source Program Office (OSPO) provides services to help engineers at Verizon Media prepare code for external publication, promote projects, and build open source communities. If you are interested in open source collaboration, we are here to help. To get an overview of our program, visit the OSPO Welcome Page intranet page, chat with us on our internal Slack channel (#opensource), or send an email to ospo@.
+The Yahoo Open Source Program Office (OSPO) provides services to help engineers at Yahoo prepare code for external publication, promote projects, and build open source communities. If you are interested in open source collaboration, we are here to help. To get an overview of our program, visit the OSPO Welcome Page intranet page, chat with us on our internal Slack channel (#opensource), or send an email to ospo@.
 
 This page addresses topics related to accepting contributions into our projects. 
 

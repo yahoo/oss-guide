@@ -7,7 +7,7 @@ nav_order: 2
 
 # Publishing Your Project: Step 2. Getting Approval
 
-The Verizon Media Open Source Program Office (OSPO) is here to help engineers at Verizon Media prepare code for external publication, promote projects, and build open source communities. Our process is designed to set your project up for success, and to comply with relevant company policies. In Step 1, we show you how to [prepare your project](../publishing/prepare.md) to request OSPO approval. This page highlights the questions we will review with you to secure an approval for your publication request.
+The Yahoo Open Source Program Office (OSPO) is here to help engineers at Yahoo prepare code for external publication, promote projects, and build open source communities. Our process is designed to set your project up for success, and to comply with relevant company policies. In Step 1, we show you how to [prepare your project](../publishing/prepare.md) to request OSPO approval. This page highlights the questions we will review with you to secure an approval for your publication request.
 
 ## Prepare Your Project Information
 
@@ -16,8 +16,8 @@ Include the answers to the following questions into a JIRA ticket assigned to th
  1. Provide a repo link for the project you want to publish. 
  1. Where exactly do you want to publish the code? (e.g. github.com/?).
  1. Provide us (or link to) open source dependencies (and their licenses).
- 1. What is the business value to Verizon Media for publishing this code? (related: Why did you write this code in the first place? At that time, did you plan that you'll be publishing it as an open source project?)
- 1. Was all the code in this project authored by a Verizon Media employee? If not, please elaborate.
+ 1. What is the business value to Yahoo for publishing this code? (related: Why did you write this code in the first place? At that time, did you plan that you'll be publishing it as an open source project?)
+ 1. Was all the code in this project authored by a Yahoo employee? If not, please elaborate.
  1. Does your manager and project architect agree this project should be published?
  1. Have you completed a tech council review of the project (and its intent to be published)? See the Tech Council Review Queue worksheet on our intranet for details about the review process.
  1. Where is this code used in production? (If this code is not in production, why not?)

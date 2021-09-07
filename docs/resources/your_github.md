@@ -5,7 +5,7 @@ parent: Resources to Address Common Questions
 nav_order: 6
 ---
 
-GitHub.com is a third party site we use to publish open source projects. Your GitHub.com account is your personal property that you might have created before joining the company and will continue to use after you leave. It's much like your Facebook, LinkedIn, Twitter, or any other social media account. Your personal use of personal social media is addressed in Verizon's Employee Code of Conduct and other internal publications about external activities, communications, and intellectual property. There, you'll find the reasonable balance of concerns and resources to address questions. 
+GitHub.com is a third party site we use to publish open source projects. Your GitHub.com account is your personal property that you might have created before joining the company and will continue to use after you leave. It's much like your Facebook, LinkedIn, Twitter, or any other social media account. Your personal use of personal social media is addressed in Yahoo's Employee Code of Conduct and other internal publications about external activities, communications, and intellectual property. There, you'll find the reasonable balance of concerns and resources to address questions. 
 
 ## GitHub Accounts
 
@@ -14,13 +14,13 @@ In the case of open source, things are slightly more complicated since on the on
 To participate in work-related open source projects:
 1. Use your personal GitHub.com account. Create one if you don't have one. 
 1. Register your user name (the whole URL) in your intranet profile (there's an `Edit Profile` button on the bottom of your profile page and a section for your GitHub ID).
-1. [Add your verizonmedia.com email address to your account](https://github.com/settings/emails). Please use this email address to make work-related commits. Why? because some projects track contributions by company and we'd like to celebrate the work you are doing. If you are reluctant to associate your work address with your personal account, please contact the OSPO to discuss a work-around.
-1. [Activate two-factor authentication on your account](https://github.com/settings/security). This is a good security practice in general, and is required for all users who are given access to Verizon Media orgs. **Make sure you save the recovery codes for your two-factor authentication**, we will not be able to help you if you lose your security device and get locked out of your account.
+1. [Add your yahooinc.com email address to your account](https://github.com/settings/emails). Please use this email address to make work-related commits. Why? because some projects track contributions by company and we'd like to celebrate the work you are doing. If you are reluctant to associate your work address with your personal account, please contact the OSPO to discuss a work-around.
+1. [Activate two-factor authentication on your account](https://github.com/settings/security). This is a good security practice in general, and is required for all users who are given access to Yahoo orgs. **Make sure you save the recovery codes for your two-factor authentication**, we will not be able to help you if you lose your security device and get locked out of your account.
 1. [Add an SSH key](https://github.com/settings/keys) to your account to make it easier to access GitHub.com from the command line.
 
 In addition, we suggest you add additional profile information to your account:
 1. **Your name** makes it easier for us to identify you.
-1. **Our company** (Verizon Media) helps us promote our tech brand by showing who our open source contributors are.
+1. **Our company** (Yahoo) helps us promote our tech brand by showing who our open source contributors are.
 1. **An avatar**, either your real picture or something other than the default. 
 
 We recognize that some people prefer not to use their name, image, or other information in public websites. We are here to help you succeed with open source and will help work around your preferences to find something that makes sense. 
@@ -29,17 +29,17 @@ A reminder: Do not post company code in your personal GitHub account without get
 
 ## GitHub Organizations
 
-Verizon Media open source projects are released on GitHub.com and are published in a [Verizon Media organization managed by the OSPO](../resources/resources-external.md). Do not publish any content to an organization you created without first consulting the OSPO. If you need to claim an organization name for a project we're about to publish, feel free to do so, but consult with the OSPO before publishing anything to it. 
+Yahoo open source projects are released on GitHub.com and are published in a [Yahoo organization managed by the OSPO](../resources/resources-external.md). Do not publish any content to an organization you created without first consulting the OSPO. If you need to claim an organization name for a project we're about to publish, feel free to do so, but consult with the OSPO before publishing anything to it. 
 
 It may be appropriate to publish code to your personal account. e.g. your code (not related to work).
 1. Purely personal projects that have nothing to do with your job. (We'll help you determine if this is the case.)
-1. Sample code for a talk at an event not related to Verizon Media.
+1. Sample code for a talk at an event not related to Yahoo.
 1. Unofficial, experimental, or sample code.
 
-Any code referenced from our documentation or blog post belongs in a [managed Verizon Media organization](../resources/resources-external.md). If you're unsure whether a project should be published in a Verizon Media organization or under your personal account, ask us.
+Any code referenced from our documentation or blog post belongs in a [managed Yahoo organization](../resources/resources-external.md). If you're unsure whether a project should be published in a Yahoo organization or under your personal account, ask us.
 
-If you are an Verizon Media organization owner, please complete the organization profile properly.
-1. **Profile**: All Verizon Media organizations are required to have a profile picture with a brand logo, if you need help identifying the proper logo to use, or need to create a new logo for your project, contact the OSPO for help.  
+If you are an Yahoo organization owner, please complete the organization profile properly.
+1. **Profile**: All Yahoo organizations are required to have a profile picture with a brand logo, if you need help identifying the proper logo to use, or need to create a new logo for your project, contact the OSPO for help.  
 1. **Member Privileges**: Disable the option to allow organization members to create repositories. Set Base Permissions to the lowest possible permission level to avoid giving members more access than is required. You can always create teams to give people more permissions to specific repos. Disable the option to allow members to change repository visibilities for this organization. Disable the option to delete or transfer repositories for this organization.
 1. **Security**: Enable the option to require two-factor authentication for everyone in the organization.
 

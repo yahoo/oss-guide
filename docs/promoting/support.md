@@ -7,7 +7,7 @@ nav_order: 5
 
 # Promoting Your Open Source Projects
 
-The Verizon Media Open Source Program Office (OSPO) provides services to help engineers at Verizon Media prepare code for external publication, promote projects, and build open source communities. If you are interested in open source collaboration, we are here to help. To get an overview of our program, visit the OSPO Welcome Page intranet page, chat with us on our internal Slack channel (#opensource), or send an email to ospo@.
+The Yahoo Open Source Program Office (OSPO) provides services to help engineers at Yahoo prepare code for external publication, promote projects, and build open source communities. If you are interested in open source collaboration, we are here to help. To get an overview of our program, visit the OSPO Welcome Page intranet page, chat with us on our internal Slack channel (#opensource), or send an email to ospo@.
 
 This page highlights the levels of support we provide to the open source projects we publish. 
 
@@ -19,7 +19,7 @@ The OSPO provides a range of support services to help our open source projects b
 
 This level of support is for projects with a strategic to value and robust engineering support. To receive strategic support, a project must:
 
-- Have a strategic value to Verizon Media.
+- Have a strategic value to Yahoo.
 - Have an internal employee project owner that serves as point of contact for all issues.
 - Be meaningfully active (e.g. at minimum, having an update in the last month).
  
@@ -42,7 +42,7 @@ We will provide your project:
 
 ## Tier 2: Limited Support
 
-This level of support is for projects that further Verizon Media's technology goals and interests. To receive limited support, a project must:
+This level of support is for projects that further Yahoo's technology goals and interests. To receive limited support, a project must:
 
 - Have an internal employee project owner that serves as point of contact for all issues.
 - Be at least minimally active (e.g. having a meaningful update in the last three months).
@@ -81,4 +81,4 @@ We archive a project.
 - When the project maintainers are not responsive to resolve a security alert.
 - When the project is inactive (e.g. no meaningful changes in 2 years).
 
-We will mark these projects as Archived. This allows people to read and fork the code, while it also sends the message that we are not actively supporting the code. Note: if you are the only project maintainer of an active open source project that is employed at Verizon Media, but you plan to leave the company, contact the OSPO. You can fork the project and maintain it in a different location, or we can identify an employee to serve as our contact for project updates. 
+We will mark these projects as Archived. This allows people to read and fork the code, while it also sends the message that we are not actively supporting the code. Note: if you are the only project maintainer of an active open source project that is employed at Yahoo, but you plan to leave the company, contact the OSPO. You can fork the project and maintain it in a different location, or we can identify an employee to serve as our contact for project updates. 
