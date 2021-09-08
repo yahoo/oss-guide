@@ -11,7 +11,7 @@ nav_order: 3
 
 Yes. If a project lacks a license we can't consider it to be open source. The rights held by the code-owner might not be licensed, thus using the code may be an infringement. Some people publish code and assume this implies a license. Some projects add the name of a license inside a configuration file. One might argue this _implies_ a license. But there's [legal precedent](https://h2o.law.harvard.edu/cases/4070#r[7]) to suggest that courts wish to see copyright agreements clarified in writing ("Section 204's writing requirement [for transfer of copyright] is not unduly burdensome"). We seek to avoid ambiguity and assumptions. If you don't see an expressed license associated with the code, we can't assume it is open source. 
 
-For this reason we put a license in the root of all of our code projects and add a license header in all code files. This makes it clear to others. When it comes to [using code](https://verizonmedia.github.io/oss-guide/docs/using/using.html#the-open-source-license), we like to see an explicit license (and will ask the project to make it clear if it was not already clear).
+For this reason we put a license in the root of all of our code projects and add a license header in all code files. This makes it clear to others. When it comes to [using code](https://yahoo.github.io/oss-guide/docs/using/using.html#the-open-source-license), we like to see an explicit license (and will ask the project to make it clear if it was not already clear).
 
 ### How Do We Pick Which License To Use?
 

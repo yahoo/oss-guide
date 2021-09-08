@@ -7,7 +7,7 @@ nav_order: 1
 
 # Publishing your Project: Step 1. Prepare Your Request
 
-The Verizon Media Open Source Program Office (OSPO) is here to help engineers at Verizon Media prepare code for external publication, promote projects, and build open source communities. Our process is designed to set your project up for success, and to comply with relevant company policies. This page highlights the initial steps you'll take when it comes to publishing company code as an open source project, namely preparing to make your publication request.
+The Yahoo Open Source Program Office (OSPO) is here to help engineers at Yahoo prepare code for external publication, promote projects, and build open source communities. Our process is designed to set your project up for success, and to comply with relevant company policies. This page highlights the initial steps you'll take when it comes to publishing company code as an open source project, namely preparing to make your publication request.
 
 ## Name Your Project
 
@@ -15,7 +15,7 @@ We suggest thinking about your project name early in the process. Before you sel
 
 - We prefer descriptive names that clearly convey your project's purpose.
 - Don't use a name that is protected by trademark. We'll connect you to our Trademark Search Request (TSR) process on the intranet if you are unsure about the protected status of the name you propose.
-- Don't use a Verizon or Verizon Media brand name.
+- Don't use a Yahoo brand name.
 - Avoid using a third-party brand name. In certain cases you can use them as descriptors. For example, you can use "Test Libraries for Java" but don't call something "Java Test Libraries."
 - Don't use cumbersome names. Name your project as if you expect it to be widely adopted.
 - Don't use unclear names. e.g. "Foundation Server" 
@@ -40,7 +40,7 @@ More do's and don'ts:
 - Don't add a symbol next to the word _Copyright_ (e.g. © or (c)). It's redundant.
 - Don't add or update the year of publication. We don't need to include the year of publication. Technically it is intended to start the timer for copyright expiration. Often people see it as a freshness date. It's not needed.
 - Don't add "All rights reserved." at the end of the line. The license will un-reserve some of those rights. Use "All rights reserved." for closed source code.
-- We're a complicated company, so many groups get stuck on who the copyright holder is for their code. It is Yahoo Inc., Oath Inc. Verizon Media, Verizon, or something else. We'll guide you as to the appropriate choice.
+- We're a complicated company, so many groups get stuck on who the copyright holder is for their code. It is Yahoo Inc., Oath Inc. Yahoo, or something else. We'll guide you as to the appropriate choice.
 - Under normal circumstances, the copyright holder will be the name of our company, not the name of the developer who first authored the code.
 
 This part can get surprisingly complicated, especially when it comes to code projects with blended code set from different companies. Read more details about [Copyright and License headers](../resources/copyright.html). Please review the information on the [Contribute to Apache Software Foundation projects](../contributing/recordkeeping.html#contribute-to-apache-software-foundation-asf-projects.html) help page for contributions to ASF managed projects. Better yet, talk to us and we'll work with you to get to the right header text.

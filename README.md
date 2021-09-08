@@ -1,6 +1,6 @@
-# Verizon Media Open Source Guide
+# Yahoo Open Source Guide
 
-The Verizon Media Open Source guide project is a public version of the internal guide used at Verizon Media to help engineers navigate our policies and services.
+The Yahoo Open Source guide project is a public version of the internal guide used at Yahoo to help engineers navigate our policies and services.
 
 We make this guide public out of our belief that sharing code and content brings out our best while inviting others to help us get better. If you have edits, suggestions, or questions about this guide, please open an issue on this project. If you'd like to fork this guide and use it at your company, please do so but we'd love to know about it too. 
 
@@ -14,9 +14,8 @@ This guide is built using GitHub Pages with Jekyll and the Just the Docs theme.
 
 Please refer to [the contributing.md file](Contributing.md) for information about how to get involved. We welcome issues, questions, and pull requests.
 
-## Maintainers
-- Ashley Wolf: awolf@verizonmedia.com
-- Gil Yehuda: gyehuda@verizonmedia.com
+## Temporary Maintainer
+- Robert Israel: risrael@yahooinc.com
 
 Thank you to Megan Leney and Ben Pearson for helping us refine this guide.
 

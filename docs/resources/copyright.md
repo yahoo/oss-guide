@@ -42,27 +42,27 @@ First read the section [Prepare your Publication](publishing/prepare.html#add-co
 1. New code that we are not planning to publish 
 
 ### Existing code that you are not modifying
-If you've published open source code at one of the Verizon Media legacy brands, your code will contain a copyright declaration that looks like: `Copyright 2014, Yahoo Inc.` or `Copyright 2014, Aol Inc.` etc.
+If you've published open source code at one of the Yahoo legacy brands, your code will contain a copyright declaration that looks like: `Copyright 2014, Yahoo Inc.` or `Copyright 2014, Aol Inc.` etc.
 
-Even though we are now `Verizon Media`, you do not need to change the copyright notice text on code that was already published. The code previously published was marked correctly at the time. We don't have to change anything about that -- in fact it would be incorrect to change it. Copyright statements are not a freshness date, they are more like a timestamp.
+Even though we are now `Yahoo`, you do not need to change the copyright notice text on code that was already published. The code previously published was marked correctly at the time. We don't have to change anything about that -- in fact it would be incorrect to change it. Copyright statements are not a freshness date, they are more like a timestamp.
 
 ### Existing code that you are modifying
-When modifying one of our existing open source projects, you don't need to alter the copyright header. You _can_ remove the year since we no longer display years on the copyright line. Don't add a date range (e.g. 2012-2017). You _can_ update the copyright entity name from "Oath Inc." to "Verizon Media" if you prefer, but you don't have to.
+When modifying one of our existing open source projects, you don't need to alter the copyright header. You _can_ remove the year since we no longer display years on the copyright line. Don't add a date range (e.g. 2012-2017). You _can_ update the copyright entity name from "Oath Inc." to "Yahoo Inc." if you prefer, but you don't have to.  If the copyright entity is "Verizon", "Verizon Media", or any other name belonging to Verizon, please update the entity name to one appropriate to Yahoo Inc.
 
 ### New code that we are publishing
-_Verizon Media_ is the name we now use on the copyright header of new projects we publish. When you add a new file to an existing open source project or publish a new project, you'll add a copyright header to it. New code should have the following text block above to the top of each source code file that was written by employees (and not computer generated).
+_Yahoo Inc._ is the name we now use on the copyright header of new projects we publish. When you add a new file to an existing open source project or publish a new project, you'll add a copyright header to it. New code should have the following text block above to the top of each source code file that was written by employees (and not computer generated).
 
 ```
-Copyright Verizon Media.
+Copyright Yahoo Inc.
 Licensed under the terms of the <SPDX license name> license. See LICENSE file in project root for terms.
 ```
 
 ### New code that we are not publishing
 We do not require internal code to include a copyright statement. But it's a good idea to have one since internal code can become published external code (on purpose or by accident). Having an accurate copyright statement helps. It's good practice to add a header when creating new files. Also, some IDEs automatically put one in, so please configure it to use the right one. 
 
-The header should contain a copyright statement (`Copyright Verizon Media`) followed by the statement that indicates this is proprietary code (`All rights reserved.`). In the event we open source that code at a future date, we will then replace the `All rights reserved.` text with a license indicator that the code is licensed under an open source license (as shown above).
+The header should contain a copyright statement (`Copyright Yahoo Inc.`) followed by the statement that indicates this is proprietary code (`All rights reserved.`). In the event we open source that code at a future date, we will then replace the `All rights reserved.` text with a license indicator that the code is licensed under an open source license (as shown above).
 
 ## Using your name on the copyright header
-Company code should not list the engineer's name in the copyright notice. The engineer is the _author_ of the code, but code written for work is assigned to the company. Your code should only list your name as the copyright holder if you processed a copyright assignment with the OSPO and legal or if we have established an exceptional situation where this makes sense to do. Otherwise the code copyright should declare `Verizon Media` as the copyright holder. It does not matter if code is published on a personal repo, as the copyright is an attribute of the code, not the repo.
+Company code should not list the engineer's name in the copyright notice. The engineer is the _author_ of the code, but code written for work is assigned to the company. Your code should only list your name as the copyright holder if you processed a copyright assignment with the OSPO and legal or if we have established an exceptional situation where this makes sense to do. Otherwise the code copyright should declare `Yahoo Inc.` as the copyright holder. It does not matter if code is published on a personal repo, as the copyright is an attribute of the code, not the repo.
 
 

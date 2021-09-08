@@ -7,7 +7,7 @@ parent: Launching Mobile Apps
 
 # Publishing Binaries 
 
-The Verizon Media Open Source Program Office (OSPO) provides services to help engineers at Verizon Media succeed with open source. If you are interested to learn more about open source, we are here to help. To get an overview of our program, vist the OSPO Welcome Page intranet page, chat with us on our internal Slack channel (#opensource), or send an email to ospo@.
+The Yahoo Open Source Program Office (OSPO) provides services to help engineers at Yahoo succeed with open source. If you are interested to learn more about open source, we are here to help. To get an overview of our program, vist the OSPO Welcome Page intranet page, chat with us on our internal Slack channel (#opensource), or send an email to ospo@.
 
 This page highlights issues engineering teams need to know about open source code in their binary apps. 
 
