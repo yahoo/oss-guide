@@ -38,8 +38,7 @@ In rare situations you may encounter a problem in your open source community tha
 After you have published your project, it's time to start accepting contributions from external contributors.
 - Specify the types of contributions you want to accept (bug fixes, new features, improvements, etc.) in the [Contributing.md](../publishing/publishing-template/Contributing.md) file.
 - Create a [PULL_REQUEST_TEMPLATE.md](../publishing/publishing-template/PULL_REQUEST_TEMPLATE.md) file to prompt contributors to provide the required information. Use our example template as a starting point.
-- If you use our PULL_REQUEST_TEMPLATE, contributors do not have to sign a CLA with us. The template contains what is, in effect, a DCO. 
-- To encourage positive community interactions, we recommend you follow the [Issue Triage](../resources/issue-triage.md) guidelines.
+- If you use our PULL_REQUEST_TEMPLATE, contributors do not have to sign a CLA with us. The template contains what is, in effect, a DCO.
 
 When projects first launch we expect all the contributors and committers on the project are Yahoo employees. We believe one measure of success is how many contributors are not employees. We encourage you to see and support external contributors to our projects. Contact the OSPO to grant committer access. We will include Yahoo employees in the GitHub org and will specify non-employees as external collaborators. 
 
@@ -49,4 +48,4 @@ All projects eventually come to their end and we want to make that process as ge
 
 ### Process
 
-This concludes the three step [prepare](../publishing/prepare.md), [approve](../publishing/approve.md), and release process. You can return to the [Publishing Overview](../publishing/publish.md), or review additional [resources](../resources/resources.md) in this guide.
+This concludes the three step [prepare](../publishing/prepare.md), [approve](../publishing/approval.md), and release process. You can return to the [Publishing Overview](../publishing/publish.md), or review additional [resources](../resources/resources.md) in this guide.

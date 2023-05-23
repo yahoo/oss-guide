@@ -23,7 +23,7 @@ That's more complicated to address. There are a few carve-outs to note: Copyrigh
 
 ### Copyright and Open Source
 
-When developers want to share their code and get others to use it, modify it, and distribute it, they should make explicit that they are doing this by intent. Why? By default if you say nothing, anyone taking your code is infringing your copyright. You should tell them it's okay to use and under what conditions. You do that in a [license](../license.md). In a commercial transaction, someone pays you for license rights. In an open source project, you simply declare the license and now everyone will know they can use, modify, and redistribute your code under the license terms you specified. 
+When developers want to share their code and get others to use it, modify it, and distribute it, they should make explicit that they are doing this by intent. Why? By default if you say nothing, anyone taking your code is infringing your copyright. You should tell them it's okay to use and under what conditions. You do that in a [license](license.md). In a commercial transaction, someone pays you for license rights. In an open source project, you simply declare the license and now everyone will know they can use, modify, and redistribute your code under the license terms you specified.
 
 ### Open Source as a Legal Construct
 
@@ -64,5 +64,3 @@ The header should contain a copyright statement (`Copyright Yahoo Inc.`) followe
 
 ## Using your name on the copyright header
 Company code should not list the engineer's name in the copyright notice. The engineer is the _author_ of the code, but code written for work is assigned to the company. Your code should only list your name as the copyright holder if you processed a copyright assignment with the OSPO and legal or if we have established an exceptional situation where this makes sense to do. Otherwise the code copyright should declare `Yahoo Inc.` as the copyright holder. It does not matter if code is published on a personal repo, as the copyright is an attribute of the code, not the repo.
-
-

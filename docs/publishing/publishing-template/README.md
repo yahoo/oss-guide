@@ -99,6 +99,5 @@ _State license full name or [SPDX](https://spdx.org/licenses/) identifier._
 **Examples (select or modify as appropriate)**
 
 - This project is licensed under the terms of the [MIT](LICENSE-MIT) open source license. Please refer to [LICENSE](LICENSE) for the full terms.
-- This project is licensed under the terms of the [Apache 2.0](LICENSE-Apache-2.0) open source license. Please refer to [LICENSE](LICENSE) for the full terms.
-- This project is licensed under the terms of the [GNU General Public License v2.0](LICENSE-GPL-2.0-only) open source license. Please refer to [LICENSE](LICENSE) for the full terms.
-
+- This project is licensed under the terms of the [Apache 2.0](LICENSE-Apache) open source license. Please refer to [LICENSE](LICENSE) for the full terms.
+- This project is licensed under the terms of the [GNU General Public License v2.0](LICENSE-GPLV2) open source license. Please refer to [LICENSE](LICENSE) for the full terms.
